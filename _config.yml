@@ -57,7 +57,7 @@ social-network-links:
 #  twitter: false
 #  patreon: false
 #  youtube: false
-  whatsapp: +212753963135
+  whatsapp: 212753963135
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
   linkedin: Badr-El-Ghazaoui
@@ -136,7 +136,7 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-page-col: "#FOE7D5"
+page-col: "#F0E7D5"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"

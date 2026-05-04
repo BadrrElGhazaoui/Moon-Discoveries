@@ -11,8 +11,10 @@ share-img: assets/img/wildfo.jpg
 <img style="width:100%; height:auto;" alt="billie-eilish-jesse-rutherford-9-73230dd4ca3549dcbf4c697e333a0226" src="https://github.com/user-attachments/assets/680b36f9-6a1c-4630-b298-03902adff2ea" />
 <p><b>Review</b></p>
 <p>I will not explain the song's lyrics , you can find that everywhere . I will review as of what I see , as a matter fact , I didn't even know the song's story until I'm writing this . And it still doesn't change that this song is beautiful .</p>
-<p><b>1-Vocals</b> I don't know what this way of singing is called but it's like Billie is out of breath , like she is dying inside her while singing , it's like a poet telling his last words . I used to think that Billie's fans were a bunch of depression junkies , now I don't.</p>
-<p><b>2-Lyrics</b> As I said before , I never knew the story behind the lyrics but they touched me . The lyrics felt like everyone's story , like you are reliving a long lost memory . </p>
+<p><b>Vocals</b></p>
+<p>I don't know what this way of singing is called but it's like Billie is out of breath , like she is dying inside her while singing , it's like a poet telling his last words . I used to think that Billie's fans were a bunch of depression junkies , now I don't.</p>
+<p><b>Lyrics</b></p>
+<p> As I said before , I never knew the story behind the lyrics but they touched me . The lyrics felt like everyone's story , like you are reliving a long lost memory . </p>
 <p><i>Well, good things don't last (good things don't last)<br>
  and life moves so fast (life moves so fast)<br>
  I'd never ask who was better (I'd never ask who was better)<br>

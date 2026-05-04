@@ -2,6 +2,7 @@
 title: Casanegra (2008)
 subtitle: The sleepless city
 categories: [Movies]
+share-img:<img style="width:100%; height:auto;" alt="casa" src="https://github.com/user-attachments/assets/af40dc3d-fcca-4ada-92cb-bb1ac9f1d693" />
 ---
 <p><i>Casa is a monster,if you don't fight it,it will eat you.</i>These are the words that most Casaouis say about their city. This movie was made for the soul purpose to explore is this saying true? I'll leave you the judge of it. Bienvenue à Casa !</p>
 <img style="width:100%; height:auto;" alt="casa" src="https://github.com/user-attachments/assets/af40dc3d-fcca-4ada-92cb-bb1ac9f1d693" />

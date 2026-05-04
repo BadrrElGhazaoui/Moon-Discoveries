@@ -1,12 +1,12 @@
 ---
 title: Sufjan Stevens - Mystery of Love
 categories: Songs
+share-img: assets/img/mystery of love.jpeg
 ---
 <p>This is a very dear song to my heart , it was originally meant for the legendary-oscar winning movie " Call me by your name " 
 (I'll post a review soon)
 This masterpiece is made by a marvelous artist : <b>Sufjan Stevens</b>. Let's dive into this beautiful gem .</p>
-
-<img width="640" height="640" alt="ab67616d0000b27391a1c3c3d6fba1f63a010152" src="https://github.com/user-attachments/assets/3eda6bc4-fce2-4b81-93b3-7eb1e57a53a6" />
+<img style="width:100%; height:auto;" alt="ab67616d0000b27391a1c3c3d6fba1f63a010152" src="https://github.com/user-attachments/assets/3eda6bc4-fce2-4b81-93b3-7eb1e57a53a6" />
 <p><b>Context</b></p>
 <p>Sufjan Stevens has had a life with a lot of sorrow and grief , from his deceased mother to his boyfriend Evans , to which the song was kind of dedicated to . Some think Mystery of Love is just a song to speak about Elio and Oliver's love story , others think that it's about Sufjan's love paradox . When the world didn't know about Sufjan's queerness , he stood and performed the song at the oscar nominations while his secret boyfriend Evans was in the audience . Love paradox . <br> Today we are not discussing details everyone discussed , we are talking about how does the song effect us . Us, those who didn't live Elio and Oliver's love , nor Sufjan and Evan's love .</p>
 <p><b>Review</b></p>

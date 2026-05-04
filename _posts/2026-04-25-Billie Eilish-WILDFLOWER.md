@@ -22,4 +22,5 @@ share-img: assets/img/wildfo.jpg
  More different from me (more different from me)<br>
  Happy and free (happy and free) in leathe</i></p>
 <p>Everyone can feel that , we as humans , we all seek happiness and freedom , freedom from our thoughts , ourself and even our world . Sometime I stare at the birds and the moment when they don't use their wings , you can see how free they are . We all wish we could be like that .</p>
+<p><b>Conclusion</b></p>
 <p>At last , No matter what I say , words can't describe feelings . Listen and enjoy , forget everything in your life . Once heard a man saying : If it weren't for music , most humans would kill themselfs . Maybe he was right .</p>

@@ -4,7 +4,7 @@ subtitle: The sleepless city
 categories: [Movies]
 ---
 <p><i>Casa is a monster,if you don't fight it,it will eat you.</i>These are the words that most Casaouis say about their city. This movie was made for the soul purpose to explore is this saying true? I'll leave you the judge of it. Bienvenue à Casa !</p>
-<img width="600" height="800" alt="casa" src="https://github.com/user-attachments/assets/af40dc3d-fcca-4ada-92cb-bb1ac9f1d693" />
+<img style="width:100%; height:auto;" alt="casa" src="https://github.com/user-attachments/assets/af40dc3d-fcca-4ada-92cb-bb1ac9f1d693" />
 <p><b>Context</b></p>
 <p><i>"Casanegra, the dark house"</i> Throughout the movie , no one ever contradicts the term , no one tries to defend Casa, the only comment we get is<i>"It's not your's,you are illiterate"</i>by karim to adil when the latter said the word.( For those who don't know Casablanca means the white house). For many who live in this city, it's bad to live in it, but it's worse to leave it. It's like we have a toxic relationship with this city, we don't love it but we won't leave it. From Dizzy Dro's cazafonia to Ouidad's Casa , everyone feels the same , is it a coincidence or we all have the symptoms to a Casa-Syndrome?</p>
 <p><b>Story</b></p>

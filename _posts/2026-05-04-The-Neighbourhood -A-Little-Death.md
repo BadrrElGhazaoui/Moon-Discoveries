@@ -1,7 +1,6 @@
 ---
 title: The Neighbourhood - A Little Death 
 categories: Song
-share-img: <img style="width:100%; height:auto;" alt="artworks-KDyfoXuGfOAA-0-t500x500" src="https://github.com/user-attachments/assets/ca4bc8f5-4e8b-4e17-bf4a-73a3e20dc73a" />
 ---
 <p>Have you ever being with your lover in a closed room? Just you two loving each other, not caring about the whole world.
 I think that's the only moment where everyone would wish death to arrive. A poet known as Majnun Layla really did,and he said:

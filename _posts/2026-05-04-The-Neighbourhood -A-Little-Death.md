@@ -1,7 +1,6 @@
 ---
 title: The Neighbourhood - A Little Death 
 categories: Song
-published: false
 ---
 <p>Have you ever being with your lover in a closed room? Just you two loving each other, not caring about the whole world.
 I think that's the only moment where everyone would wish death to arrive. A poet known as Majnun Layla really did,and he said:
@@ -22,14 +21,14 @@ The neighbor was knocking, yeah<br>
 But no one would let him in</i></p>
 <p>The setup is in a house party where two lovers are in bed alone, the neighbor knocking designates the world's problems following them, the detailed description gives listeners a deep imagination, it's like you are daydreaming of this. We all do. 
 With both lovers fucking on that bed while the house is on party mode and the neighbor is knocking, it means fuck the world, with it's bad and good. I don't want none of it, I want you.</p>
-<p>Dancing through the night<br>
+<p><i>Dancing through the night<br>
 A vodka and a sprite<br>
 A glimpse of the silhouettes<br>
-A night that they never forget</p>
+A night that they never forget</i></p>
 <p>Dancing in that room feels like heaven, even though we are drunk but i will never forget your love. Many treat sex as a bad and animal thing to do. Sex is the most beautiful way to say I love you, i wanna feel inside of you, really be the closest you'll ever be.</p>
-<p>She sought death on a queen-sized bed<br>
+<p><i>She sought death on a queen-sized bed<br>
 And he had said, "Darling, your looks can kill,<br>
-So now you're dead."</p>
+So now you're dead</i></p>
 <p>All boys are chasing after her, who will she chase after? She is dead out of lack of love. Many girls do suffer this, all boys simping over them. She needs a man but can't find none, between those who want to control their body and those who want to control their minds. Where is her lover?</p>
 <p><i>Touch me, yeah<br>
 I want you to touch me there<br>

@@ -1,6 +1,7 @@
 ---
 title: The Neighbourhood - A Little Death 
 categories: Song
+share-img: <img style="width:100%; height:auto;" alt="artworks-KDyfoXuGfOAA-0-t500x500" src="https://github.com/user-attachments/assets/ca4bc8f5-4e8b-4e17-bf4a-73a3e20dc73a" />
 ---
 <p>Have you ever being with your lover in a closed room? Just you two loving each other, not caring about the whole world.
 I think that's the only moment where everyone would wish death to arrive. A poet known as Majnun Layla really did,and he said:
@@ -29,7 +30,7 @@ A night that they never forget</i></p>
 <p><i>She sought death on a queen-sized bed<br>
 And he had said, "Darling, your looks can kill,<br>
 So now you're dead</i></p>
-<p>All boys are chasing after her, who will she chase after? She is dead out of lack of love. Many girls do suffer this, all boys simping over them. She needs a man but can't find none, between those who want to control their body and those who want to control their minds. Where is her lover?</p>
+<p>All boys are chasing after her, who will she chase after? She is dead out of lack of love. Many girls do suffer this, all boys simping over them. She needs a man but can't find none, between those who want to control her body and those who want to control her minds. Where is her lover?</p>
 <p><i>Touch me, yeah<br>
 I want you to touch me there<br>
 Make me feel like I am breathing<br>

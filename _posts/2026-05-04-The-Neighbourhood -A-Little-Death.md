@@ -10,7 +10,7 @@ if our funerals could share the same earth."</i></p>
 <p>PS: Today's song was suggested by a dear friend.</p>
 <img style="width:100%; height:auto;" alt="artworks-KDyfoXuGfOAA-0-t500x500" src="https://github.com/user-attachments/assets/ca4bc8f5-4e8b-4e17-bf4a-73a3e20dc73a" />
 <p>Context</p>
-<p>The song's title " A little death " is a reference to a french saying " la petite mort " it means the sensation you feel after an orgasm. Relaxation,diziness and kind of loss of consciousness, all described as a little death.(he lead vocalist and the creative heart of The Neighbourhood) discovered he had total color blindness, so most of the album is white and black. I think the little death after an orgasm can give light/color to his life, it may seem sexual but it's the most happy you will ever be. Specially if you love the person you are with.</p>
+<p>The song's title " A little death " is a reference to a french saying " la petite mort " it means the sensation you feel after an orgasm. Relaxation,diziness and kind of loss of consciousness, all described as a little death.(The lead vocalist and the creative heart of The Neighbourhood) discovered he had total color blindness, so most of the album is white and black. I think the little death after an orgasm can give light/color to his life, it may seem sexual but it's the most happy you will ever be. Specially if you love the person you are with.</p>
 <img style="width:100%; height:auto;"  alt="rutherford-jesse-image" src="https://github.com/user-attachments/assets/613b2c91-4592-4e4d-8f51-a0cc634495d9" />
 <P><B>Lyrics</B></P>
 <p><i>Vacancy was lit, the guests were checking in<br>

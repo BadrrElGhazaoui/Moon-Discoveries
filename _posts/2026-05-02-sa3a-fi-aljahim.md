@@ -27,7 +27,7 @@ Let me introduce you to him, a normal buisness man taking the bus to work, nothi
 <img style="width:100%; height:auto;" alt="MV5BZjAxYzU1ZWQtNGI3My00OGI3LWI4NzAtZGIyNWMxYmI3YzA4XkEyXkFqcGc@ _V1_" src="https://github.com/user-attachments/assets/a08b82ee-32b9-4844-b364-e57d3f5e07a3" />
 <p><b>The Activist</b></p>
 <p>The first to be robbed, when the policeman boards the bus, he hides his face. We soon Understand why he did so, he was an activist on a protest that day and the policeman punshed him. The latter doesn't even remember him, that shows he is a real man, as he says. Two things demonstrate a big trait in this guy's personality, at first he refuses to gut open the policeman for the key to Amine's handcuffs, second he refuses to kill Rabii even when he has a knife to his throat. It shows he is a peaceful activist, all he wants is Freedom, that is written on a piece of clothes he has.</p>
-
+<img style="width:100%; height:auto;" alt="Screenshot 2026-05-04 at 14-57-20 (13) Film Toubis HD فيلم مغربي طوبيس - YouTube" src="https://github.com/user-attachments/assets/40e2a066-67e9-49cb-ac40-82302c429427" />
 <p><b>Freedom</b></p>
 <p>This bus needs freedom, not from Amine, not from Rabii, but from their real personalities. Themselves.</p>
 <p><b>Amine</b></p>

@@ -16,7 +16,17 @@ This masterpiece is made by a marvelous artist : <b>Sufjan Stevens</b>. Let's di
 <blockquote style="border-left: 4px solid #ccc; padding: 10px 20px; color: #555; font-style: italic; margin: 20px 0;">
   The first time that you kissed me
 </blockquote>
-<p><i><b>"The first time that you kissed me"</b></i> <br> There is something about someone's first kiss , It's always with you . Will we ever feel that first kiss again?will that person we all await in our lives really come? We all hope .<br></p>
-<p><i><b>"Lord, I no longer believe"</b><br></i> Lord, I no longer believe that love should be a privilege, only the lucky ones feel . I no longer believe in society's norms of love . I no longer believe in hope for love , do you? .<br></p> 
-<p><i><b>Hold your hands upon my head <br>'Til I breathe my last breath</b><br></i> We all know that if we want to die , we better die beside our lovers . I think that's why we have marriage , to preserve true love to the last moment , really the last . We enter life caused by an act of love , and we shall leave it with one .</p>
-<p><i><b>"Blessed be the mystery of love"</b><br></i> Truly blessed be the mystery of love . Love is the strongest feeling in this life , it can move mountains,armies and even countries. Everything can be justified with love, but will we ever see true love? </p>
+<p> There is something about someone's first kiss , It's always with you . Will we ever feel that first kiss again?will that person we all await in our lives really come? We all hope .<br></p>
+<blockquote style="border-left: 4px solid #ccc; padding: 10px 20px; color: #555; font-style: italic; margin: 20px 0;">
+ Lord, I no longer believe
+</blockquote>
+<p> Lord, I no longer believe that love should be a privilege, only the lucky ones feel . I no longer believe in society's norms of love . I no longer believe in hope for love , do you? .<br></p> 
+<blockquote style="border-left: 4px solid #ccc; padding: 10px 20px; color: #555; font-style: italic; margin: 20px 0;">
+  Hold your hands upon my head
+ <b>'Til I breathe my last breath</b> 
+</blockquote>
+<p> We all know that if we want to die , we better die beside our lovers . I think that's why we have marriage , to preserve true love to the last moment , really the last . We enter life caused by an act of love , and we shall leave it with one .</p>
+<blockquote style="border-left: 4px solid #ccc; padding: 10px 20px; color: #555; font-style: italic; margin: 20px 0;">
+Blessed be the mystery of love
+</blockquote>
+<p> Truly blessed be the mystery of love . Love is the strongest feeling in this life , it can move mountains,armies and even countries. Everything can be justified with love, but will we ever see true love? </p>

@@ -8,7 +8,7 @@ readtime: true
 <img style="width:100%; height:auto;" alt="wildfo" src="https://github.com/user-attachments/assets/e0b25e8f-4849-482e-8390-fcd50a09d7d5" />
 <p><b>Context</b></p>
 <p>So the story goes that Devon Lee Carlson and Jesse Rutherford (two influencers) were dating and in love until 2021 , after the break up , Devon found refuge in Billie (her friend) . All was good until July 2022 , Billie began dating Jesse . She couldn't bare backstabing her friend so they ended things in Mai 2023 , she still sees her friend in the back of her mind . </p>
-<p style="background-color: #f0f0f0; padding: 10px; border-left: 4px solid #333;">
+<p style="background-color: #F0E7D5; padding: 10px; border-left: 4px solid #333;">
   <b>PS:</b> Apparently the song's name (Wildflower) is taken from a limited iPhone cases collection by Devon Lee, her friend.
 </p>
 <img style="width:100%; height:auto;" alt="billie-eilish-jesse-rutherford-9-73230dd4ca3549dcbf4c697e333a0226" src="https://github.com/user-attachments/assets/680b36f9-6a1c-4630-b298-03902adff2ea" />

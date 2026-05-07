@@ -1,6 +1,6 @@
 ---
 title: The Neighbourhood - A Little Death 
-categories: Song
+categories: Songs
 share-img: assets/img/artworks-KDyfoXuGfOAA-0-t500x500.jpg
 readtime: true
 ---

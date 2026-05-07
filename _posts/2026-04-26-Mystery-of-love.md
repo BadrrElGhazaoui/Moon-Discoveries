@@ -22,8 +22,8 @@ This masterpiece is made by a marvelous artist : <b>Sufjan Stevens</b>. Let's di
 </blockquote>
 <p> Lord, I no longer believe that love should be a privilege, only the lucky ones feel . I no longer believe in society's norms of love . I no longer believe in hope for love , do you? .<br></p> 
 <blockquote style="border-left: 4px solid #ccc; padding: 10px 20px; color: #555; font-style: italic; margin: 20px 0;">
-  Hold your hands upon my head
- <b>'Til I breathe my last breath</b> 
+  Hold your hands upon my head<br>
+ 'Til I breathe my last breath 
 </blockquote>
 <p> We all know that if we want to die , we better die beside our lovers . I think that's why we have marriage , to preserve true love to the last moment , really the last . We enter life caused by an act of love , and we shall leave it with one .</p>
 <blockquote style="border-left: 4px solid #ccc; padding: 10px 20px; color: #555; font-style: italic; margin: 20px 0;">

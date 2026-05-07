@@ -2,6 +2,7 @@
 title: Sufjan Stevens - Mystery of Love
 categories: Songs
 share-img: assets/img/mystery of love.jpeg
+readtime: true
 ---
 <p>This is a very dear song to my heart , it was originally meant for the legendary-oscar winning movie " Call me by your name " 
 (I'll post a review soon)

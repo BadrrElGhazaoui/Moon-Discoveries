@@ -2,6 +2,7 @@
 title:  Avicii - The Nights 
 categories: Songs
 share-img: assets/img/AVICI.jpg
+readtime: true
 ---
 <p>Do you remember when we were small children , wishing to be super heros , stealing 2 bucks from our parents to buy extra snacks , hiding the phone under your pillow to stay up at night playing..... <br> These are commun human knowledge , everyone wishes to go back to those days, our biggest problems were homework or eating vegetables . This song will remind you of that life . Enjoy!</p>
 <img style="width:100%; height:auto;" alt="wp10481995-avicii-the-nights-wallpapers" src="https://github.com/user-attachments/assets/507c7a8c-b894-4eef-8d67-c008ee5a7f51" />

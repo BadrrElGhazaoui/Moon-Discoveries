@@ -18,12 +18,6 @@ readtime: true
 <p>I don't know what this way of singing is called but it's like Billie is out of breath , like she is dying inside her while singing , it's like a poet telling his last words . I used to think that Billie's fans were a bunch of depression junkies , now I don't.</p>
 <p><b>Lyrics</b></p>
 <p> As I said before , I never knew the story behind the lyrics but they touched me . The lyrics felt like everyone's story , like you are reliving a long lost memory . </p>
-<p><i>Well, good things don't last (good things don't last)<br>
- and life moves so fast (life moves so fast)<br>
- I'd never ask who was better (I'd never ask who was better)<br>
- 'Cause she couldn't be (she couldn't be)<br>
- More different from me (more different from me)<br>
- Happy and free (happy and free) in leathe</i></p>
  <blockquote style="border-left: 4px solid #ccc; padding: 10px 20px; color: #555; font-style: italic; margin: 20px 0;">
   Well, good things don't last (good things don't last)<br>
   and life moves so fast (life moves so fast)<br>

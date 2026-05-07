@@ -11,8 +11,15 @@ readtime: true
 <img style="width:100%; height:auto;" alt="AVICI" src="https://github.com/user-attachments/assets/01743543-6245-4ca1-afbf-3137734b87e4" />
 <p><b>Review</b></p>
 <p>This song is about hope , hope for better days to come , for better selfs to be forged . For humanity . Don't get the instagram effect while listening to this song , you reflect on your life and you realize you are not in the swiss alps with your cool friends drinking beer . For me , the song is to relish everyone's life , no matter who you are or where you are , be happpy , even if your everyday sucks , try to find joy in it. Even if you are lonely, find joy in it. You don't have to mimik someone's life for you to be happy , make your own life and you'll be even happier.<br></p>
-<p><i>Learned our lessons through the tears<br>Made memories we knew would never fade<br></i></p><p>In life , you will meet good and bad friends, don't try to change them , change yourself , live with them , make memories with them.You will cry at nights for sure, but you got something better, a lesson .<br></p>
-<p><i>When thunderclouds start pouring down<br>
+<blockquote style="border-left: 4px solid #ccc; padding: 10px 20px; color: #555; font-style: italic; margin: 20px 0;">
+  Learned our lessons through the tears
+  Made memories we knew would never fade<br>
+</blockquote>
+<p>In life , you will meet good and bad friends, don't try to change them , change yourself , live with them , make memories with them.You will cry at nights for sure, but you got something better, a lesson .<br></p>
+<blockquote style="border-left: 4px solid #ccc; padding: 10px 20px; color: #555; font-style: italic; margin: 20px 0;">
+ When thunderclouds start pouring down
 Light a fire they can't put out<br>
-Carve your name into those shining stars<br></i></p><p>When the problems come, light a fire in you that will never be put down, face them, even if you fear them, be brave even if you can't, just pretend, trust me, it works. I think in our time, social media led us to think that life is all perfect, if you gamble 2 bucks you'll gain millions and buy that dream home.Look, life isn't perfect, but it's beautiful, if we didn't have problems, that's a problem itself. You shall fix to build. </p>
+Carve your name into those shining stars<br>
+</blockquote>
+<p>When the problems come, light a fire in you that will never be put down, face them, even if you fear them, be brave even if you can't, just pretend, trust me, it works. I think in our time, social media led us to think that life is all perfect, if you gamble 2 bucks you'll gain millions and buy that dream home.Look, life isn't perfect, but it's beautiful, if we didn't have problems, that's a problem itself. You shall fix to build. </p>
 <p>May you live the life you want .</p>

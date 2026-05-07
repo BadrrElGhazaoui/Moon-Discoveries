@@ -25,6 +25,7 @@ navbar-links:
   Books: "category/Books"
   Movies: "category/Movies"
   Songs: "category/Songs"
+  Games: "category/Games"
 
 ################
 # --- Logo --- #

@@ -39,12 +39,14 @@ A night that they never forget
  She sought death on a queen-sized bed<br>
 And he had said, "Darling, your looks can kill,<br>
 So now you're dead
+</blockquote>
 <p>All boys are chasing after her, who will she chase after? She is dead out of lack of love. Many girls do suffer this, all boys simping over them. She needs a man but can't find none, between those who want to control her body and those who want to control her minds. Where is her lover?</p>
 <blockquote style="border-left: 4px solid #ccc; padding: 10px 20px; color: #555; font-style: italic; margin: 20px 0;">
   Touch me, yeah<br>
 I want you to touch me there<br>
 Make me feel like I am breathing<br>
 Feel like I am human
+</blockquote>
 <p>If you have ever felt the touch of a true lover, you'll feel goosebumps all over your body, a feeling really close to ascending, like your mind is in another planet. It surpasses being drunk or on drugs, it's love. It makes us feel human, with today's boring lives we have: school,bars,job.... the only thing that we hope will bring our true selves out is the touch of a lover. A true one.</p>
 <p><b>Conclusion</b></p>
 <p>Sex was made for both animals and humans, the only thing that distinguishes us from them is love. When I say "them" I don't certainly mean animals.</p>

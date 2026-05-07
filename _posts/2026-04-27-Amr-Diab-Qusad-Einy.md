@@ -2,6 +2,7 @@
 title: Amr Diab - Qusad Einy
 categories: Songs
 share-img: assets/img/amr diab.jpg
+readtime: true
 ---
 <p><b>"but will we ever see true love?"</b>. Those were my last words on Mystery of Love's article. Today , we will get a
 glimpse of true love . Literally , from the darkest places on earth . Literally .....</p> 

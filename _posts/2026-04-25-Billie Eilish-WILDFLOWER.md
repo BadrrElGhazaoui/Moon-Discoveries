@@ -24,6 +24,14 @@ readtime: true
  'Cause she couldn't be (she couldn't be)<br>
  More different from me (more different from me)<br>
  Happy and free (happy and free) in leathe</i></p>
+ <blockquote style="border-left: 4px solid #ccc; padding: 10px 20px; color: #555; font-style: italic; margin: 20px 0;">
+  Well, good things don't last (good things don't last)<br>
+  and life moves so fast (life moves so fast)<br>
+  I'd never ask who was better (I'd never ask who was better)<br>
+  'Cause she couldn't be (she couldn't be)<br>
+  More different from me (more different from me)<br>
+  Happy and free (happy and free) in leathe
+</blockquote>
 <p>Everyone can feel that , we as humans , we all seek happiness and freedom , freedom from our thoughts , ourself and even our world . Sometime I stare at the birds and the moment when they don't use their wings , you can see how free they are . We all wish we could be like that .</p>
 <p><b>Conclusion</b></p>
 <p>At last , No matter what I say , words can't describe feelings . Listen and enjoy , forget everything in your life . Once heard a man saying : If it weren't for music , most humans would kill themselfs . Maybe he was right .</p>

@@ -2,6 +2,7 @@
 title: Billie Eilish-Wildflower
 categories: Songs
 share-img: assets/img/wildfo.jpg
+readtime: true
 ---
 <p>There is a type of songs that feel like they play inside your soul , this is one of them . When I first listened to this song , I felt like I was about to die . It just gets you to places . Let's talk more about it!</p>
 <img style="width:100%; height:auto;" alt="wildfo" src="https://github.com/user-attachments/assets/e0b25e8f-4849-482e-8390-fcd50a09d7d5" />

@@ -49,4 +49,8 @@ Paul's personality shifts when he understands that his whole life, he's been sta
   </blockquote>
 </p>
 <img style="width:100%; height:auto;" alt="gettyimages-51819060-e60b470066aa6d144b04ee3160c1114eb867ccb7" src="https://github.com/user-attachments/assets/5323db62-467d-4cd1-978b-1823787a1876" />
-<p><b></b></p>
+<p><b>Tatiana</b></p>
+<p>I don't know if it's love or insanity, but Tatiana . She is a Tutsi, she tells paul to take the children and run away. In other words, she sacrificies herself for her family. Amidst all the war, Paul takes Tatiana to the hotel's roof for a last romantique supper. It resembles love inside warzones,genocides around the globe. She promised him if the interhamwaye gets to them, she will kill herself and the kids. She didn't. Lastly, I wanna aplaude the actor Sophie Okonedo for the marvelous role she did. </p>
+<img style="width:100%; height:auto;" alt="wmremove-transformed" src="https://github.com/user-attachments/assets/571a70ee-d8b5-44f7-87fe-dc0cc12d3c45" />
+<p><b>United Nations</b></p>
+<p>While the UN is supposed to help countries around the world, when the Rwandan Genocide occurs, instead of increasing the fire power of UN officers, it reduces it by more than half. Even when Europe send an " intervention" force, it comes to rescue only their citizens, europeans. Colonel Olivier is a UN officer in the movie. After the intervention force announce that they are going to extract only europeans. He can't even look paul in the eyes, he explains that for Europe, Africa is just a trash can. </p>

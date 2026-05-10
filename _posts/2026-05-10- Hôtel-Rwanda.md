@@ -2,6 +2,7 @@
 title: Hôtel Rwanda (2004)
 categories: Movies
 share-img: assets/img/wp7931138-hotel-rwanda-wallpapers.jpg
+readtime: true
 ---
 <p>Tonight's my birthday. I'll celebrate it with my family first, and with you second. I present to you the best movie I've ever 
   seen. I cried,laughed and felt every scene in the movie. Ladies and Gentlemen, I present to you Hôtel Rwanda. </p>
@@ -28,4 +29,24 @@ Came 1990, the exiled Tutsi formed what is known as the RPF (Rwandan Patriotic F
 This same militia started what would be called later the darkest radio station in world history : RTLM (Radio Télévision Libre des Mille Collines) . <br> 6 April 1994, the president's plane is shut down over the capital Kigali. The Genocide begins.</p>
 <img style="width:100%; height:auto;" alt="5647c0221a78ec2a2bf13e7e9f6dbac87c82e407" src="https://github.com/user-attachments/assets/2bcff839-2c9c-4de5-98a8-e1ac86ab9370" />
 <p><b>Story</b></p>
-<p>The movie embodies the story of Paul Rusesabagina ( a real person btw) a hotel manager in Kigali, the capital of Rwanda. While Paul lives a peaceful life providing for his family, </p>
+<p style="background-color: #F0E7D5; padding: 10px; border-left: 4px solid #333;"> 
+  <b>PS:</b>Not only the movie's historical events are real but our protagonist's story too is real and occured at the time. The international hero: Paul Rusesabagina 
+</p>
+<p>The movie embodies the story of Paul Rusesabagina  a hotel manager in Kigali, the capital of Rwanda. While Paul lives a well connected peaceful life, the Rwandan Genocide disturbs it all. Between his wife's love and his work duty, who shall he save? </p>
+<p><b>Paul Rusesabagina</b></p>
+<p>To understand how Paul thinks, we have to look at what his wife told him when Tutsi neighbor's came to him.
+<blockquote style="border-left: 4px solid #ccc; padding: 10px 20px; color: #555; font-style: italic; margin: 20px 0;">
+  <b>Paul:</b>Why do the neighbors run to us? <br>
+  <b>Tatiana:</b>You are the only Hutu they can trust.
+</blockquote>
+We understand that Paul is a really kind man, at first you may think they are just words, but when he is put to choice between fleeing the country with his family and leaving the hotel full of refugies behind or to stay and help them. Paul does the latter. He is fully prepared to sacrifice himself for peace. Peace not only for his family but for humans everywhere, if paul were to be in any country he would have done the same. <br>
+The second thing we understand about our protagoniste is that he is not just a manager by job, he is one by heart. Even when the foreigners including the Hotel Milles Colines real manager leaves, Paul still maintains order in staff and in guests.<br>
+Paul's personality shifts when he understands that his whole life, he's been stacking up favors of foreign powerful people, only for them to abandon him the second the intervention forces come to get them out. You know why he didn't leave with his family in the truck? because he knows how does refugiees will feel, he's been there.<br>
+  After coming from Georges Rutaganda's place, Paul closes the door on himself and began changing his suit, at that moment he collapses and starts crying. No one can stay well minded amidst all this. <br>
+  I wish they were more Paul Rusesabagina in the world, I will at least try to be one.
+  <blockquote style="border-left: 4px solid #ccc; padding: 10px 20px; color: #555; font-style: italic; margin: 20px 0;">
+ <b>Paul:</b>I cannot leave these people to die
+  </blockquote>
+</p>
+<img style="width:100%; height:auto;" alt="gettyimages-51819060-e60b470066aa6d144b04ee3160c1114eb867ccb7" src="https://github.com/user-attachments/assets/5323db62-467d-4cd1-978b-1823787a1876" />
+<p><b></b></p>

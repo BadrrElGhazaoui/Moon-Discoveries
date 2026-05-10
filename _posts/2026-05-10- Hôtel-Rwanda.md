@@ -25,4 +25,7 @@ and a Hutu revolution was to be. Thousands of Tutsi murdered, most have fled to 
 Came 1990, the exiled Tutsi formed what is known as the RPF (Rwandan Patriotic Front). Civil war erupts and northern Rwanda is taken by the RPF.</p>
 <img style="width:100%; height:auto;"  alt="960px-RwandaTerritoryAfterFeb1993" src="https://github.com/user-attachments/assets/4f794666-247a-4cd9-a20a-a7ed1d28dbd1" />
 <p>1993.This is when everything begins. The Hutu president signed the Arusha Accords, a peace treaty with the RPF. On the other hand a Hutu extremists group called the interhamwe opposes this considering it weakness.
-This same militia started what would be called later the darkest radio station in world history : RTLM . <br> 6 April 1994, the president's plane is shut down over the capital Kigali. The Genocide begins.</p>
+This same militia started what would be called later the darkest radio station in world history : RTLM (Radio Télévision Libre des Mille Collines) . <br> 6 April 1994, the president's plane is shut down over the capital Kigali. The Genocide begins.</p>
+<img style="width:100%; height:auto;" alt="5647c0221a78ec2a2bf13e7e9f6dbac87c82e407" src="https://github.com/user-attachments/assets/2bcff839-2c9c-4de5-98a8-e1ac86ab9370" />
+<p><b>Story</b></p>
+<p></p>

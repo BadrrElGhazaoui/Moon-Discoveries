@@ -28,4 +28,4 @@ Came 1990, the exiled Tutsi formed what is known as the RPF (Rwandan Patriotic F
 This same militia started what would be called later the darkest radio station in world history : RTLM (Radio Télévision Libre des Mille Collines) . <br> 6 April 1994, the president's plane is shut down over the capital Kigali. The Genocide begins.</p>
 <img style="width:100%; height:auto;" alt="5647c0221a78ec2a2bf13e7e9f6dbac87c82e407" src="https://github.com/user-attachments/assets/2bcff839-2c9c-4de5-98a8-e1ac86ab9370" />
 <p><b>Story</b></p>
-<p></p>
+<p>The movie embodies the story of Paul Rusesabagina ( a real person btw) a hotel manager in Kigali, the capital of Rwanda. While Paul lives a peaceful life providing for his family, </p>

@@ -15,7 +15,7 @@ published: false
 </p>
 <p><b>Album's Story</b></p>
 <p>
-  The band said they created Ibn El Leil to speak about Beirut's night life (if you don't know, for the arab world beirut is the gay capital, a LOT of gays from all over the place take refuge in there. You can see a documentary <p><b><a href="https://www.youtube.com/watch?v=_DQYwBhgOxk&pp=ygUVZG9jdW1lbnRhcnkgZ2F5IGFyYWJz" target="_blank" rel="noopener noreferrer" style="color: black; text-decoration: none;">here</a></b></p> <br>
+  The band said they created Ibn El Leil to speak about Beirut's night life (if you don't know, for the arab world beirut is the gay capital, a LOT of gays from all over the place take refuge in there. You can see a documentary <b><a href="https://www.youtube.com/watch?v=_DQYwBhgOxk&pp=ygUVZG9jdW1lbnRhcnkgZ2F5IGFyYWJz" target="_blank" rel="noopener noreferrer" style="color: black; text-decoration: none;">here</a></b> <br>
   The Album also speaks about Queer life in the Arab World in General (that was the title of the first article i published in my old blog), without further ado let's dive in!
   
 </p>

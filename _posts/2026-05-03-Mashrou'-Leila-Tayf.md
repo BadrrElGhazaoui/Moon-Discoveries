@@ -1,5 +1,5 @@
 ---
-title: 'Mashrou' Leila: Tayf'
+title: Mashrou'Leila: Tayf
 categories: Songs
 share-img: assets/img/Mashrou leila.jpg
 readtime: true

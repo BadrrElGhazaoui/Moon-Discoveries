@@ -13,6 +13,7 @@ published: false
 <p>
   Mashrou'Leila is a lebanese music group made at first by students in the American University in Beirut for a study project, that's why its called project of a night, kind of a last minute project. Years passed and they became one of the most succesful musical groups in the arab world. Comes 2022 and the group splits mainly because of public harassment and death threats because of Hamed Sinno's (the lead singer) queerness, yes an arab group has a gay lead singer isn't that cool? well it's all flowers until you hear about Sarah Hegazi's story.
 </p>
+<img style="width:100%; height:auto;"  alt="ibn leil" src="https://github.com/user-attachments/assets/f1572bcc-9668-453b-b9d2-b6ede8ba5a35" />
 <p><b>Album's Story</b></p>
 <p>
   The band said they created Ibn El Leil to speak about Beirut's night life (if you don't know, for the arab world beirut is the gay capital, a LOT of gays from all over the place take refuge in there. You can see a documentary <b><a href="https://www.youtube.com/watch?v=_DQYwBhgOxk&pp=ygUVZG9jdW1lbnRhcnkgZ2F5IGFyYWJz" target="_blank" rel="noopener noreferrer" style="color: black; text-decoration: none;">here</a></b> <br>
@@ -43,3 +44,13 @@ published: false
     The raven's bread refers to a type of mushrooms, the latter grow in rotting places, like the Arab World for examples. He says that this generation, our generation is growing in a rotting place, but we will prevail, with our culture, our kidness, our humanness. <br>
       We shall make this part of the world much better, I'm already seeing a really big potential just through the people I know. A lot of locals have lost hope, hope of a better tomorrow. I haven't, someday even if we have 100 years, we shall see our countries without poverty, and someday we will be one of the happiest nations on earth.
 </p>
+<blockquote style="border-left: 4px solid #ccc; padding: 10px 20px; color: #555; font-style: italic; margin: 20px 0;">
+  <p>وأنمحيت (وأنمحيت)<br>       من كتب التاريخ كأنها تاريخك (وهويتك)<br>         بأوراكنا ترجمنالُن أبيات سافو وأبو نواس بلسان الآهات<br>        عالشراشف طرزناها بالآهات اللي نشدناها بالمظاهرات</p>
+</blockquote>
+<blockquote style="border-left: 4px solid #ccc; padding: 10px 20px; color: #555; font-style: italic; margin: 20px 0;">
+  <p>And I was erased (and I was erased)<br> from the history books as if it were your history (and your identity)<br> with our thighs we translated the verses of Sappho and Abu Nuwas in the language of sighs<br> on the sheets we embroidered them with the sighs we chanted at the protests</p>
+</blockquote>
+<p>Some LGBTQ+ history here: <uL>
+<li>Sappho</li>
+  <li>Aboû Nouwâs</li>
+</uL></p>

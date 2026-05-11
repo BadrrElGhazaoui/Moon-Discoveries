@@ -8,7 +8,7 @@ readtime: true
 glimpse of true love . Literally , from the darkest places on earth . Literally .....</p> 
 <img style="width:100%; height:auto;" alt="maxresdefault" src="https://github.com/user-attachments/assets/064d985e-ccca-4cbe-a99d-79473d7251ca" />
 <p><b>Context</b></p>
-<p>Quick history lesson: 8 December 2024 , the world woke up to Syria's fallen regime . At last , Syria is free , from Al Assad ( who took refuge in russia btw) . After this , Syrians began freeing their families from prisons . One of them was Saidnaya . Look , the horror's of what the fallen regime has done there , I can't even describe . Look it up and trust me you won't sleep at night , none of us did . Documents show that more than 40 000 Syrians were literally living under the ground .<br>
+<p>Quick history lesson: 8 December 2024 , the world woke up to Syria's fallen regime . At last , Syria is free , from Al Assad ( who took refuge in russia btw) . After this , Syrians began freeing their families from prisons . One of them was Saidnaya . Look , the horrors of what the fallen regime has done there , I can't even describe . Look it up and trust me you won't sleep at night , none of us did . Documents show that more than 40 000 Syrians were literally living under the ground .<br>
 To the point it earned the name <b>"The Human Slaughterhouse"</b>.But from the darkest places comes the beautiful of things....</p>
 <img style="width:100%; height:auto;" alt="Saidnaya" src="https://github.com/user-attachments/assets/fc19a1ad-f737-4d6b-8f41-ec9d191eec59" />
 <p><b>The Wall</b></p>
@@ -27,7 +27,7 @@ The song is about going back to your lover no matter what happens , promising hi
   ولا هيوصف هوايا كلام<br>
   وطول ليلي ولما بنام
 </blockquote>
-<p>It says that I can't resist the days , no words can describe my love , and the long nights I sleep . For me it means that I can't bare the days I live without you , even tho I don't know you now , I still can't live without you . Words can't describe how much I want you , how much I need you . The long I spend dreaming about you , thinking about you . Will I ever see you ? Will I ever know you?</p>
+<p>It says that I can't resist the days , no words can describe my love , and the long nights I sleep . For me it means that I can't bear the days I live without you , even tho I don't know you now , I still can't live without you . Words can't describe how much I want you , how much I need you . The long I spend dreaming about you , thinking about you . Will I ever see you ? Will I ever know you?</p>
 <blockquote style="border-left: 4px solid #ccc; padding: 10px 20px; color: #555; font-style: italic; margin: 20px 0;">
   في يوم هنعود<br>
   ده بينا وعود<br>

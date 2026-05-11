@@ -1,5 +1,5 @@
 ---
-Title: Mortal Kombat: Shaolin Monks
+Title: "Mortal Kombat: Shaolin Monks"
 categories: Games
 readtime: true 
 share-img: assets/img/wp2846471-wallpaper-mortal-kombat-shaolin-monks-hd.jpg

@@ -17,5 +17,12 @@ published: false
 <p>
   The band said they created Ibn El Leil to speak about Beirut's night life (if you don't know, for the arab world beirut is the gay capital, a LOT of gays from all over the place take refuge in there. You can see a documentary <b><a href="https://www.youtube.com/watch?v=_DQYwBhgOxk&pp=ygUVZG9jdW1lbnRhcnkgZ2F5IGFyYWJz" target="_blank" rel="noopener noreferrer" style="color: black; text-decoration: none;">here</a></b> <br>
   The Album also speaks about Queer life in the Arab World in General (that was the title of the first article i published in my old blog), without further ado let's dive in!
-  
 </p>
+<p><b>Lyrics</b></p>
+<blockquote style="border-left: 4px solid #ccc; padding: 10px 20px; color: #555; font-style: italic; margin: 20px 0;">
+  <p>والطرابيش خدونا عالحبوس<br> عشان يخصونا ويعملوا أوسام<br> خيطنا لون أعلامنا من أكفان جثث الأصحاب<br> اللي كانوا عالإعدام</p>
+</blockquote>
+<blockquote style="border-left: 4px solid #ccc; padding: 10px 20px; color: #555; font-style: italic; margin: 20px 0;">
+  <p>The fez-wearers took us to prison<br> to castrate us and make medals<br> we sewed the color of our flags from the shrouds of the friends<br> who were on death row</p>
+</blockquote>
+<p>by the "fez-wearers" they mean the police/military officers, they competed on how much gay people they took to prison, you know why? to get promoted. Welcome to the Arab World Ladies and Gentlemen, the gay community from the beginning </p>

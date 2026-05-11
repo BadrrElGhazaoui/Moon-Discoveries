@@ -17,4 +17,5 @@ published: false
 </p>
 <img style="width:100%; height:auto;" alt="wp2846471-wallpaper-mortal-kombat-shaolin-monks-hd" src="https://github.com/user-attachments/assets/c3f1375e-612f-47dd-b244-fc9784c90f27" />
 <p><b>Story</b></p>
-<p>The story follows </p>
+<p>The story follows two earthrealm warriors: Liu Kang and Kung Lao, aided by Raiden the God of thunder, our warriors fight to stop Shang Tsung from draging eartrealm into an unlawful Mortal Kombat tournament, in which if earthrealm looses. The forces of dark will conquere it. To stop this from happening, our fighters travel to the darkest corner of the world : Outworld.  </p>
+

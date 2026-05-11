@@ -51,6 +51,6 @@ published: false
   <p>And I was erased (and I was erased)<br> from the history books as if it were your history (and your identity)<br> with our thighs we translated the verses of Sappho and Abu Nuwas in the language of sighs<br> on the sheets we embroidered them with the sighs we chanted at the protests</p>
 </blockquote>
 <p>Some LGBTQ+ history here: <uL>
-<li>Sappho</li>
-  <li>Aboû Nouwâs</li>
+<li>Sappho: the poet who inspired the term sapphics, that we use to call lesbians today. She had a major role in revealing lesbian life to the world at 630-570 B.C . Here poems are still present to this day and read by many.</li>
+  <li>Aboû Nouwâs: One of the most famous arab poets of the Abbasid era </li>
 </uL></p>

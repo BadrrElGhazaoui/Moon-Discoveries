@@ -36,10 +36,10 @@ readtime: true
   <blockquote style="border-left: 4px solid #ccc; padding: 10px 20px; color: #555; font-style: italic; margin: 20px 0;">
 خبز الغراب بدأ ينما منورث الأرض غدا ياما
   </blockquote>
-    <blockquote style="border-left: 4px solid #ccc; padding: 10px 20px; color: #555; font-style: italic; margin: 20px 0;">
+  <blockquote style="border-left: 4px solid #ccc; padding: 10px 20px; color: #555; font-style: italic; margin: 20px 0;">
     The raven’s bread has begun to grow; tomorrow, mother, we shall inherit the earth
-    </blockquote>
-    <p>
+ </blockquote>
+ <p>
     The raven's bread refers to a type of mushrooms, the latter grow in rotting places, like the Arab World for examples. He says that this generation, our generation is growing in a rotting place, but we will prevail, with our culture, our kidness, our humanness. <br>
       
  We shall make this part of the world much better, I'm already seeing a really big potential just through the people I know. A lot of locals have lost hope, hope of a better tomorrow. I haven't, someday even if we have 100 years, we shall see our countries without poverty, and someday we will be one of the happiest nations on earth.

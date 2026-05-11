@@ -12,7 +12,7 @@ This masterpiece is made by a marvelous artist : <b>Sufjan Stevens</b>. Let's di
 <p>Sufjan Stevens has had a life with a lot of sorrow and grief , from his deceased mother to his boyfriend Evans , to which the song was kind of dedicated to . Some think Mystery of Love is just a song to speak about Elio and Oliver's love story , others think that it's about Sufjan's love paradox . When the world didn't know about Sufjan's queerness , he stood and performed the song at the oscar nominations while his secret boyfriend Evans was in the audience . Love paradox . <br> Today we are not discussing details everyone discussed , we are talking about how does the song effect us . Us, those who didn't live Elio and Oliver's love , nor Sufjan and Evan's love .</p>
 <p><b>Review</b></p>
 <p>Remember when I told you that there is a type of songs that feel like they play inside your soul , this song is how I knew it . Was watching for the first time Call me by your name , on a cold night in my dorm room , alone , crying ... until I heard Mystery of Love and it took me to places I've never been to . Even tho I was still in my dorm , I felt like I had known real love. That's how powerful it is .</p>
-<p>The songs chilly mood , rythme , and soft voice are what gives it it's vibe , or it's just sufjan . Some of the lyrics I love :</p> 
+<p>The songs chilly mood , rhythm , and soft voice are what gives it it's vibe , or it's just sufjan . Some of the lyrics I love :</p> 
 <blockquote style="border-left: 4px solid #ccc; padding: 10px 20px; color: #555; font-style: italic; margin: 20px 0;">
   The first time that you kissed me
 </blockquote>

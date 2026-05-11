@@ -25,9 +25,21 @@ published: false
 <blockquote style="border-left: 4px solid #ccc; padding: 10px 20px; color: #555; font-style: italic; margin: 20px 0;">
   <p>The fez-wearers took us to prison<br> to castrate us and make medals<br> we sewed the color of our flags from the shrouds of the friends<br> who were on death row</p>
 </blockquote>
-<p>by the "fez-wearers" they mean the police/military officers, they competed on how much gay people they took to prison, you know why? to get promoted. Welcome to the Arab World Ladies and Gentlemen, the gay community from the beginning of time sewed the color of their flag with blood, blood that shed when they were killed, raped and even burried underground.<br> All because of what? being gay. You know most people argue wether you are born gay or you are made gay, it doesn't matter, no one should die because of their belief or the words the say or even the ideas they have. Whenever someone argues about this just remember this arabic saying : 
+<p>by the "fez-wearers" they mean the police/military officers, they competed on how much gay people they took to prison, you know why? to get promoted. Welcome to the Arab World Ladies and Gentlemen, the gay community from the beginning of time sewed the color of their flag with blood, blood that shed when they were killed, raped and even burried underground.<br> 
+  
+  All because of what? being gay. You know most people argue wether you are born gay or you are made gay, it doesn't matter, no one should die because of their belief or the words the say or even the ideas they have. Whenever someone argues about this just remember this arabic saying : 
   <p style="background-color: #F0E7D5; padding: 10px; border-left: 4px solid #333;"> 
     أنا أنظر إلى القمر، والحمار ينظر إلى إصبعي.
     I look at the moon, while the donkey looks at my finger.
   </p>
+</p>
+  <blockquote style="border-left: 4px solid #ccc; padding: 10px 20px; color: #555; font-style: italic; margin: 20px 0;">
+خبز الغراب بدأ ينما منورث الأرض غدا ياما
+  </blockquote>
+    <blockquote style="border-left: 4px solid #ccc; padding: 10px 20px; color: #555; font-style: italic; margin: 20px 0;">
+    The raven’s bread has begun to grow; tomorrow, mother, we shall inherit the earth
+    </blockquote>
+    <p>
+    The raven's bread refers to a type of mushrooms, the latter grow in rotting places, like the Arab World for examples. He says that this generation, our generation is growing in a rotting place, but we will prevail, with our culture, our kidness, our humanness. <br>
+      We shall make this part of the world much better, I'm already seeing a really big potential just through the people I know. A lot of locals have lost hope, hope of a better tomorrow. I haven't, someday even if we have 100 years, we shall see our countries without poverty, and someday we will be one of the happiest nations on earth.
 </p>

@@ -24,5 +24,14 @@ published: false
 </p>
 <img style="width:100%; height:auto;" alt="Test your might" src="https://github.com/user-attachments/assets/be4e6f67-016c-4069-b998-dbb50fd4bf5c" />
 <p><b>Test Your Might</b></p>
-<p></p>
+<p>This is a famous game mechanic in which you have to press X for a certain number of times in order to cross the bar and press L1 and you pass the " test " . The problem is not here, the problem is you have to have GOD fingers to do this, literally. Doing this alone as a challenge is hard, try doing it while facing a boss: Baraka.</p>
+<img style="width:100%; height:auto;" alt="Baraka" src="https://github.com/user-attachments/assets/1f617dc4-86e1-4a21-aea4-18734dd3fcb1" />
+<p><b>Baraka</b></p>
+<p>Just so you know, Baraka isn't supposed to even be a boss, like he is an evil character but not thatt hard to be a boss. That was the thought I had before facing him in Outworld inside the Living Forest. What I can tell you, is I broke my controller's analog stick with this guy. He is really hard, guess why? TEST YOUR MIGHT. When you try to hit Baraka with your sword, you are put to the challenge, you literally have to BOMB that X button, and when you do it and you are relieved. You have to do it again.</p>
+<img style="width:100%; height:auto;"  alt="Reptile" src="https://github.com/user-attachments/assets/3d91f4b9-0de1-43f9-aa88-89b08625c5db" />
+<p><b>Reptile</b></p>
+<p>He was really easy, when you infiltrate the Living Forest in Outworld more you face this guy's giant snake first ( really easy don't worry) then you face him. You just have to guess where he is, because he is invisible, so just do combos around until you find him. But the boss after this one won't be hard to find: Goro</p>
+<img style="width:100%; height:auto;"  alt="GoroMKSM" src="https://github.com/user-attachments/assets/c3d9cd3a-59a6-4147-933b-616ca026a59e" />
+<p><b>Goro</b></p>
+<p>As you can see, Goro is a basically a giant with four arms ( kind of like four arms in Ben 10, just not funny). So you'd think if the little Baraka gave me a hard time, with this guy I would've broken the TV. Surprisingly I didn't, he was too easy, he just swings at you with one of the room pillars and you have to spam him with special moves. Even tho Goro has a reputation of been unbeatable, he never faced the two bosses after him : sub zero scorpion  </p>
 

@@ -50,9 +50,17 @@ published: false
 <blockquote style="border-left: 4px solid #ccc; padding: 10px 20px; color: #555; font-style: italic; margin: 20px 0;">
   <p>And I was erased (and I was erased)<br> from the history books as if it were your history (and your identity)<br> with our thighs we translated the verses of Sappho and Abu Nuwas in the language of sighs<br> on the sheets we embroidered them with the sighs we chanted at the protests</p>
 </blockquote>
+<img style="width:100%; height:auto;" alt="sappho_abunuwas" src="https://github.com/user-attachments/assets/9910dada-f35c-4b98-ad75-e4c198abb509" />
 <p>Some LGBTQ+ history here: <uL>
 <li>Sappho: the poet who inspired the term sapphics, that we use to call lesbians today. She had a major role in revealing lesbian life to the world at 630-570 B.C . Here poems are still present to this day and read by many.</li>
   <li>Aboû Nouwâs: One of the most famous Arab poets of the Abbasid era, he was known at first by drinking, loving boys and mocking God. After that he made a lot of poems repenting for what he believed were his "sins". No one knows how he died.</li>
 </uL></p>
-<img style="width:100%; height:auto;" alt="sappho_abunuwas" src="https://github.com/user-attachments/assets/9910dada-f35c-4b98-ad75-e4c198abb509" />
-
+<img style="width:100%; height:auto;" alt="sarah hegazi" src="https://github.com/user-attachments/assets/edbea972-383f-432d-93ef-576b54874e2f" />
+<p><b>Sarah Hegazi</b></p>
+<p>
+  In 2017, Sarah attended a mashrou'leila concert in Cairo, she raised the LGBTQ+ flag which is strictly forbidden in all of the Arab World let alone Egypt. After the concert she was arrested by Egyptians authorities, and she reported that she was abused while in costody. Really abused <br>
+<p style="background-color: #F0E7D5; padding: 10px; border-left: 4px solid #333;">
+<b>PS:</b>The Egyptians authorities have a long history of abuse and blackmailing with the queer community 
+  
+After she was released , she came out to death threats from the public, harassment and social isolation. She did what 90% of Queer Arabs do, asylum. Canada (of course) granted her the asylum and she began fighting Egyptian organizations from there while blogging and speaking for the Queer community. 
+</p>

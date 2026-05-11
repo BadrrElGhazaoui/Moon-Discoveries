@@ -41,7 +41,8 @@ readtime: true
  </blockquote>
  <p>
     The raven's bread refers to a type of mushrooms, the latter grow in rotting places, like the Arab World for examples. He says that this generation, our generation is growing in a rotting place, but we will prevail, with our culture, our kidness, our humanness. <br>
-      
+ </p>
+   <p>   
  We shall make this part of the world much better, I'm already seeing a really big potential just through the people I know. A lot of locals have lost hope, hope of a better tomorrow. I haven't, someday even if we have 100 years, we shall see our countries without poverty, and someday we will be one of the happiest nations on earth.
 </p>
 <blockquote style="border-left: 4px solid #ccc; padding: 10px 20px; color: #555; font-style: italic; margin: 20px 0;">

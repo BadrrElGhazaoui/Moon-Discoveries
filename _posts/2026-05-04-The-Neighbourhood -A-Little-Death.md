@@ -4,7 +4,7 @@ categories: Songs
 share-img: assets/img/artworks-KDyfoXuGfOAA-0-t500x500.jpg
 readtime: true
 ---
-<p>Have you ever being with your lover in a closed room? Just you two loving each other, not caring about the whole world.
+<p>Have you ever been with your lover in a closed room? Just you two loving each other, not caring about the whole world.
 I think that's the only moment where everyone would wish death to arrive. A poet known as Majnun Layla really did,and he said:
 <i>"If only your grave were mine,
 if our funerals could share the same earth."</i></p>

@@ -10,7 +10,7 @@ readtime: true
 <img style="width:100%; height:auto;" alt="Mashrou leila" src="https://github.com/user-attachments/assets/abdf51e7-0bba-4c85-8c1d-5860d426f168" />
 <p><b>Context</b></p>
 <p>
-  Mashrou'Leila is a lebanese music group made at first by students in the American University in Beirut for a study project, that's why its called project of a night, kind of a last minute project. Years passed and they became one of the most succesful musical groups in the arab world. Comes 2022 and the group splits mainly because of public harassment and death threats because of Hamed Sinno's (the lead singer) queerness, yes an arab group has a gay lead singer isn't that cool? well it's all flowers until you hear about Sarah Hegazi's story.
+  Mashrou'Leila is a Lebanese music group made at first by students in the American University in Beirut for a study project, that's why its called project of a night, kind of a last minute project. Years passed and they became one of the most successful musical groups in the arab world. Comes 2022 and the group splits mainly because of public harassment and death threats because of Hamed Sinno's (the lead singer) queerness, yes an arab group has a gay lead singer isn't that cool? well it's all flowers until you hear about Sarah Hegazi's story.
 </p>
 <img style="width:100%; height:auto;"  alt="ibn leil" src="https://github.com/user-attachments/assets/f1572bcc-9668-453b-b9d2-b6ede8ba5a35" />
 <p><b>Album's Story</b></p>
@@ -59,7 +59,7 @@ readtime: true
 <img style="width:100%; height:auto;" alt="sarah hegazi" src="https://github.com/user-attachments/assets/edbea972-383f-432d-93ef-576b54874e2f" />
 <p><b>Sarah Hegazi</b></p>
 <p>
-  In 2017, Sarah attended a mashrou'leila concert in Cairo, she raised the LGBTQ+ flag which is strictly forbidden in all of the Arab World let alone Egypt. After the concert she was arrested by Egyptians authorities, and she reported that she was abused while in costody. Really abused <br>
+  In 2017, Sarah attended a mashrou'leila concert in Cairo, she raised the LGBTQ+ flag which is strictly forbidden in all of the Arab World let alone Egypt. After the concert she was arrested by Egyptians authorities, and she reported that she was abused while in custody. Really abused <br>
 <p style="background-color: #F0E7D5; padding: 10px; border-left: 4px solid #333;">
 <b>PS:</b>The Egyptians authorities have a long history of abuse and blackmailing with the queer community,watch the BBC report
 <b><a href="https://www.youtube.com/watch?v=GnSV0UVleRY" target="_blank" rel="noopener noreferrer" style="color: black; text-decoration: none;">here</a></b>

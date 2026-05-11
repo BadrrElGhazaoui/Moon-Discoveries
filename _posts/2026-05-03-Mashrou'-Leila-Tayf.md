@@ -52,5 +52,7 @@ published: false
 </blockquote>
 <p>Some LGBTQ+ history here: <uL>
 <li>Sappho: the poet who inspired the term sapphics, that we use to call lesbians today. She had a major role in revealing lesbian life to the world at 630-570 B.C . Here poems are still present to this day and read by many.</li>
-  <li>Aboû Nouwâs: One of the most famous arab poets of the Abbasid era </li>
+  <li>Aboû Nouwâs: One of the most famous Arab poets of the Abbasid era, he was known at first by drinking, loving boys and mocking God. After that he made a lot of poems repenting for what he believed were his "sins". No one knows how he died.</li>
 </uL></p>
+<img style="width:100%; height:auto;" alt="sappho_abunuwas" src="https://github.com/user-attachments/assets/9910dada-f35c-4b98-ad75-e4c198abb509" />
+

@@ -3,7 +3,6 @@ Title: Mortal Kombat: Shaolin Monks
 categories: Games
 readtime: true 
 share-img: assets/img/wp2846471-wallpaper-mortal-kombat-shaolin-monks-hd.jpg
-published: false
 ---
 <p>
   Hello everyone! Our first game in this new category is Mortal Kombat — of course. 
@@ -37,4 +36,10 @@ published: false
 <img style="width:100%; height:auto;" alt="HD-wallpaper-sub-zero-vs-scorpion-mk-mortal-kombat-sub-zero" src="https://github.com/user-attachments/assets/a7ff38af-c533-45d9-9581-d0969d2c8358" />
 <p><b>Sub-Zero Scorpion</b></p>
 <p>So these two mf's are very known in the franchise to give hard time to players. When I decided to play this game, I was prepared for that because I already have history with them in Mortal Kombat X. Facing Sub-Zero was really easy, just throw the skulls at him, they do more damage then specials or combos. After we beat him, he becomes our ally and we discover he ain't the real Sub-Zero, because his brother (the real one) died to Scorpion in Mortal Kombat. He takes us to Netherrealm to face the latter, when we get there Sub-Zero is seen chasing after Smoke, which he thinks is his brother. We continue our way to face Scorpion. <br> Let me tell you, it was the coolest fight in the game for me (as of now) when you beat him as Scorpion he comes back with a cool flamming skull as Hellfire Scorpion. Really cool, he wasn't hard too. Baraka still holds the first place for me. </p>
+<img width="1200" height="513" alt="Baraka_ _the_Tarkata" src="https://github.com/user-attachments/assets/76ee2c8b-340c-4595-bea7-d9c0f3a138d6" />
+<p><b>Tarkata</b></p>
+<p>This isn't a boss, he just the common enemy you face all along the game. Why I brought him up? bro facing these mf's is harder than Goro. Do you know why is that? just Guess who they look like . Yup, Baraka. It seems to be that Baraka is from this race, that explains everything. Man I do really hate this guy from now on.</p>
+<p><B>Conclusion</B></p>
+<p>Even tho I hate Baraka, I deem this game to be one of the most legendary games out there. Play it and Enjoy your Childhood, to those who haven't played it when they were kids, be kids now there is still time!</p>
+
 

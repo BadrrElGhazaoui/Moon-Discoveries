@@ -1,4 +1,4 @@
-# 🌙 Moon Findings — Personal Blog
+# 🌙 Moon Discoveries — Personal Blog
 
 > *"Like owning a house makes you feel secure, I own this corner of the internet."*
 

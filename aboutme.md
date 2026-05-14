@@ -2,6 +2,9 @@
 layout: page
 title: About me
 ---
+<p>While the origins of the name Badr aren’t known, it’s early usage was by Ancient Arabic Nomads who travelled at night under the Moon. And Here they named the full Moon : Badr . 
+Came a man named Badr who dug a well between mekka and medina ( saoudi arabia ), that well will be used centuries later to win one of the biggest Battles in Islamic History : The Battle of Badr . 
+</p>
 Hi! My name is Badr El Ghazaoui . A 19 years old teenager from Casablanca,Morocco . I made this blog for the following reasons:
 <ul>
 <li>I love reading books , so naturally I want to share my opinion on them . </li>

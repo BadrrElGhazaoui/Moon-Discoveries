@@ -9,6 +9,7 @@ title: About me
 Badr El Ghazaoui. 
 </p>
 <p style="background-color: #F0E7D5; padding: 10px; border-left: 4px solid #333;"> 
+<b>PS:</b>My opinions on the discussed topics aren't sacred. It is not the full truth, it is just what I think . <br> 
 Like owning a house makes you feel secure, I own this corner of the Internet. </p>
 
 Enjoy!

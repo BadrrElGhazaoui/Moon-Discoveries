@@ -10,8 +10,6 @@ A personal blog built with [Beautiful Jekyll](https://beautifuljekyll.com/), hos
 
 ## About
 
-Hi, I'm **Badr El Ghazaoui**, a 19-year-old from Casablanca, Morocco.
-
 I started this blog for a few simple reasons:
 - I love books and want to share what I take from them
 - Movies deserve more than a dopamine hit — I want to dig into what they mean

@@ -50,10 +50,8 @@ I started this blog for a few simple reasons:
 
 Feel free to reach out — I'm open to conversations about anything on the blog.
 
-- 📧 [badrrelghazaoui@gmail.com](mailto:badrrelghazaoui@gmail.com)
+- 📧 [badr@moondiscoveries.com](mailto:badr@moondiscoveries.com)
 - 💼 [LinkedIn](https://linkedin.com/in/badr-el-ghazaoui-914b963a3)
-- 💬 [WhatsApp](https://wa.me/212753963135)
-
 ---
 
 *Opinions here are mine and mine alone — not sacred, not absolute. Just thoughts.*

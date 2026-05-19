@@ -13,7 +13,7 @@ The original version is mostly called "L'Américain" by Houcine Slaoui. But I pr
 <audio controls style="width: 100%; margin: 20px 0;">
   <source src="assets/ZIN W L3IN ZARQA JANA BKOL KHIR زين و العين الزرقة.mp3" type="audio/mpeg">
 </audio>
- <img style="width:100%; height:auto;" alt="Zin ou l3ayn zer9a" src="https://github.com/user-attachments/assets/75c36c92-9026-4118-b9dc-a35f6ccf9b40" />
+ <img style="width:100%; height:auto;" alt="Zin ou l3ayn zer9a-Picsart-AiImageEnhancer" src="https://github.com/user-attachments/assets/4329394d-4345-4e1e-9426-6e2590be511d" />
 <p><b>History</b></p>
   <img style="width:100%; height:auto;"  alt="6e82dbfea54bd75612d9165c4d66d16e20171107011627_thumb_565-Picsart-AiImageEnhancer" src="https://github.com/user-attachments/assets/94482ffb-deeb-437d-9f21-6c00ae164829" />
 <p>

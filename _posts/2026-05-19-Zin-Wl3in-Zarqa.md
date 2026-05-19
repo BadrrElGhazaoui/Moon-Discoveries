@@ -11,7 +11,7 @@ readtime: true
 The original version is mostly called "L'Américain" by Houcine Slaoui. But I prefer this version here :
 </p>
 <audio controls style="width: 100%; margin: 20px 0;">
-  <source src="assets/ZIN W L3IN ZARQA JANA BKOL KHIR زين و العين الزرقة.mp3" type="audio/mpeg">
+  <source src="/assets/z.mp3" type="audio/mpeg">
 </audio>
  <img style="width:100%; height:auto;" alt="Zin ou l3ayn zer9a-Picsart-AiImageEnhancer" src="https://github.com/user-attachments/assets/4329394d-4345-4e1e-9426-6e2590be511d" />
 <p><b>History</b></p>

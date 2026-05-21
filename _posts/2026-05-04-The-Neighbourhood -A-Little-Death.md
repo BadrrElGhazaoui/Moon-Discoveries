@@ -8,9 +8,6 @@ readtime: true
 I think that's the only moment where everyone would wish death to arrive. A poet known as Majnun Layla really did,and he said:
 <i>"If only your grave were mine,
 if our funerals could share the same earth."</i></p>
-<p style="background-color: #F0E7D5; padding: 10px; border-left: 4px solid #333;"> 
-  <b>PS:</b>Today's song was suggested by a dear friend,Ghita.
-</p>
 <img style="width:100%; height:auto;" alt="artworks-KDyfoXuGfOAA-0-t500x500" src="https://github.com/user-attachments/assets/ca4bc8f5-4e8b-4e17-bf4a-73a3e20dc73a" />
 <p><b>Context</b></p>
 <p>The song's title "A Little Death" is a reference to a French saying <i>"la petite mort"</i> — it means the sensation you feel after an orgasm: relaxation, dizziness, and a kind of loss of consciousness, all described as a little death.</p>

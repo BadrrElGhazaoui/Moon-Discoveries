@@ -26,7 +26,7 @@ Kali Linux gathered the best hacking tools out there, that's the purpose of crea
  <ul>
  <li>
   Nmap: The Swiss Army Knife of networking, it scans hosts, identifies ports, services, operating systems and much more. Basically you stroll around the target's network. Read my other post on this
-  <b> <a href="https://moondiscoveries.com/2026-04-30-Nmap/"_blank" rel="noopener noreferrer" style="color: black; text-decoration: none;">Here</a> </b>
+  <b> <a href="https://moondiscoveries.com/2026-04-30-Nmap/" rel="noopener noreferrer" style="color: black; text-decoration: none;">Here</a> </b>
  <img style="width:100%; height:auto;" alt="589106546-37444018-41ad-4cc5-ae4d-2454e0cd8a2c" src="https://github.com/user-attachments/assets/6f82f9f0-0249-42a9-8555-03fe3396214c" />
  </li>
   <li>
@@ -49,12 +49,12 @@ Kali Linux gathered the best hacking tools out there, that's the purpose of crea
  <img style="width:100%; height:auto;" alt="wp12298051-virtualbox-wallpapers" src="https://github.com/user-attachments/assets/ff0ac6af-a8a8-49e8-82d5-a79e961a6276" />
   </li>
   <li>
-   Normal Os: Use Kali as your principal Operating system. you download the installer Image on your Usb and Install it on your computer <b><a href="https://www.kali.org/get-kali/#kali-installer-images"_blank" rel="noopener noreferrer" style="color: black; text-decoration: none;">here</a></b>
+   Normal Os: Use Kali as your principal Operating system. you download the installer Image on your Usb and Install it on your computer <b><a href="https://www.kali.org/get-kali/#kali-installer-images" rel="noopener noreferrer" style="color: black; text-decoration: none;">here</a></b>
   </li>
   <li>
-   Usb Live: Just like Linux <b><a href="https://moondiscoveries.com/2026-05-21-Tor/"_blank" rel="noopener noreferrer" style="color: black; text-decoration: none;">Tails</a></b>. You can Run Kali linux from the Usb, if something somehow goes wrong ( probably will ) just unplug the Usb. 
+   Usb Live: Just like Linux <b><a href="https://moondiscoveries.com/2026-05-21-Tor/" rel="noopener noreferrer" style="color: black; text-decoration: none;">Tails</a></b>. You can Run Kali linux from the Usb, if something somehow goes wrong ( probably will ) just unplug the Usb. 
    <p style="background-color: #F0E7D5; padding: 10px; border-left: 4px solid #333;"> 
-    PS: When using Usb Live, the Os uses only the hardware on your pc, ALL the software is run on the Usb drive. Use Balena Etcher <b><a href="https://etcher.balena.io//"_blank" rel="noopener noreferrer" style="color: black; text-decoration: none;">Here</a></b> to burn the Os on your Usb.
+    PS: When using Usb Live, the Os uses only the hardware on your pc, ALL the software is run on the Usb drive. Use Balena Etcher <b><a href="https://etcher.balena.io//" rel="noopener noreferrer" style="color: black; text-decoration: none;">Here</a></b> to burn the Os on your Usb.
    </p>
   </li>
  </ul>

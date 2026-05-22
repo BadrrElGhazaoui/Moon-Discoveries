@@ -14,3 +14,26 @@ published: false
 <p>
   
 </p>
+<p><b>Tools</b></p>
+<p>
+ NMAP ( mention your blog post)
+</p>
+<p><b>Usage</b></p>
+<p>
+ There are a lot of ways to use Kali Linux. Here are the best 3:
+ <ul>
+  <li>
+   Virtual Box : It's like another computer in your computer. You run two operating systems in your computer. download <b><a href="https://www.kali.org/get-kali/#kali-virtual-machines"_blank" rel="noopener noreferrer" style="color: black; text-decoration: none;">here</a></b>
+ <img style="width:100%; height:auto;" alt="wp12298051-virtualbox-wallpapers" src="https://github.com/user-attachments/assets/ff0ac6af-a8a8-49e8-82d5-a79e961a6276" />
+  </li>
+  <li>
+   Normal Os: Use Kali as your principal Operating system. you download the installer Image on your Usb and Install it on your computer <b><a href="https://www.kali.org/get-kali/#kali-installer-images"_blank" rel="noopener noreferrer" style="color: black; text-decoration: none;">here</a></b>
+  </li>
+  <li>
+   Usb Live: Just like Linux <b><a href="https://moondiscoveries.com/2026-05-21-Tor/"_blank" rel="noopener noreferrer" style="color: black; text-decoration: none;">Tails</a></b>. You can Run Kali linux from the Usb, if something somehow goes wrong ( probably will ) just unplug the Usb. 
+   <p style="background-color: #F0E7D5; padding: 10px; border-left: 4px solid #333;"> 
+    PS: When using Usb Live, the Os uses only the hardware on your pc, ALL the software is run on the Usb drive
+   </p>
+  </li>
+ </ul>
+</p>

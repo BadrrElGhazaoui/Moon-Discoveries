@@ -16,7 +16,20 @@ published: false
 </p>
 <p><b>Tools</b></p>
 <p>
- NMAP ( mention your blog post)
+Kali Linux gathered the best hacking tools out there, that's the purpose of creating a hacking Operating System. Let's list some of them : 
+ <ul>
+ <li>
+  Nmap: The Swiss Army Knife of networking, it scans hosts, identifies ports, services, operating systems and much more. Basically you stroll around the target's network. Read my other post on this <b><a href="https://moondiscoveries.com/2026-04-30-Nmap/"_blank" rel="noopener noreferrer" style="color: black; text-decoration: none;">Here</a></b>
+ <img style="width:100%; height:auto;" alt="589106546-37444018-41ad-4cc5-ae4d-2454e0cd8a2c" src="https://github.com/user-attachments/assets/6f82f9f0-0249-42a9-8555-03fe3396214c" />
+ </li>
+  <li>
+   Metasploit Framework: A Penetration testing tool used to exploit vulnerabilities in a system. It has a LOT of payloads,exploit,nops and much more.
+   <img style="width:100%; height:auto;" alt="4839747" src="https://github.com/user-attachments/assets/dba589cb-9b83-4fb7-929b-45519df341fc" />
+  </li>
+  <li>
+   
+  </li>
+ </ul>
 </p>
 <p><b>Usage</b></p>
 <p>

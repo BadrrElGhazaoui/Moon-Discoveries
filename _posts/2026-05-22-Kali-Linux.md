@@ -12,8 +12,8 @@ share-img: assets/img/wp2601077-kali-linux-wallpaper-1920x1080.png
 <p><b>History</b></p>
 <p>
   In 2006 the company Offensive Security, Merged two prior security Operating Systems, Whax and Auditor Security Collection.
-<img style="width:100%; height:auto;" alt="auditor-label" src="https://github.com/user-attachments/assets/413d041e-bfe8-42c6-9501-07f841e9a2fa" />
-<img style="width:100%; height:auto;" alt="whax" src="https://github.com/user-attachments/assets/3a3a654e-9df1-4963-8a57-99d3986a5356" />
+<img style="width:100%; height:auto;" alt="auditor-label-Picsart-AiImageEnhancer" src="https://github.com/user-attachments/assets/fb3766c3-6512-4177-8c63-f24626af8240" />
+<img style="width:100%; height:auto;" alt="whax-Picsart-AiImageEnhancer" src="https://github.com/user-attachments/assets/2a92d2b3-fa0d-4b6e-a38d-4d9cc4d27796" />
 They merged these two to give us Backtrack Linux: 
  <img style="width:100%; height:auto;" alt="wp2884619-backtrack-wallpaper-hd" src="https://github.com/user-attachments/assets/1f235c39-2b58-4c2b-9ecb-48b7fcc6c411" />
  Based on Backtrack, Offensive Security rebuilt it from scratch and realsed Kali Linux on 2013 as we know it today. 
@@ -25,7 +25,8 @@ They merged these two to give us Backtrack Linux:
 Kali Linux gathered the best hacking tools out there, that's the purpose of creating a hacking Operating System. Let's list some of them : 
  <ul>
  <li>
-  Nmap: The Swiss Army Knife of networking, it scans hosts, identifies ports, services, operating systems and much more. Basically you stroll around the target's network. Read my other post on this <b><a href="https://moondiscoveries.com/2026-04-30-Nmap/"_blank" rel="noopener noreferrer" style="color: black; text-decoration: none;">Here</a></b>
+  Nmap: The Swiss Army Knife of networking, it scans hosts, identifies ports, services, operating systems and much more. Basically you stroll around the target's network. Read my other post on this
+  <b> <a href="https://moondiscoveries.com/2026-04-30-Nmap/"_blank" rel="noopener noreferrer" style="color: black; text-decoration: none;">Here</a> </b>
  <img style="width:100%; height:auto;" alt="589106546-37444018-41ad-4cc5-ae4d-2454e0cd8a2c" src="https://github.com/user-attachments/assets/6f82f9f0-0249-42a9-8555-03fe3396214c" />
  </li>
   <li>

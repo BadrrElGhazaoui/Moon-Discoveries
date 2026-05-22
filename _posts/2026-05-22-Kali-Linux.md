@@ -45,7 +45,7 @@ Kali Linux gathered the best hacking tools out there, that's the purpose of crea
  There are a lot of ways to use Kali Linux. Here are the best 3:
  <ul>
   <li>
-   Virtual Box : It's like another computer in your computer. You run two operating systems in your computer. download <b><a href="https://www.kali.org/get-kali/#kali-virtual-machines"_blank" rel="noopener noreferrer" style="color: black; text-decoration: none;">here</a></b>
+   Virtual Box : It's like another computer in your computer. You run two operating systems in your computer. download <b><a href="https://www.kali.org/get-kali/#kali-virtual-machines" rel="noopener noreferrer" style="color: black; text-decoration: none;">here</a></b>
  <img style="width:100%; height:auto;" alt="wp12298051-virtualbox-wallpapers" src="https://github.com/user-attachments/assets/ff0ac6af-a8a8-49e8-82d5-a79e961a6276" />
   </li>
   <li>

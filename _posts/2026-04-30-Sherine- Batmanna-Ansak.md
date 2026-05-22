@@ -1,7 +1,7 @@
 ---
 title: Sherine - Batmanna Ansak
 categories: Songs
-share-img: 
+share-img: assets/img/batmanansak.jpg
 published: false
 ---
 <P>
@@ -14,3 +14,7 @@ published: false
   They Reunite later that year and divorce again in 2023. Well one of them is a psycho, that's for sure. But as long as we keep getting songs like Batmana Ansak, I mean keep going at it?
 </p>
 <img style="width:100%; height:auto;" alt="Hossam-Habib-nie-avoir-agresse-son-ex-femme-Sherine" src="https://github.com/user-attachments/assets/3eeae0a7-52f9-477c-9437-739162544c67" />
+<p style="background-color: #F0E7D5; padding: 10px; border-left: 4px solid #333;"> 
+This song is super known in the Gen Z world because of Instagram reels and Tiktok. I even once witnesed a drunk 19 yo singing it while passing out, that's something.
+</p>
+<p><b>Lyrics</b></p>

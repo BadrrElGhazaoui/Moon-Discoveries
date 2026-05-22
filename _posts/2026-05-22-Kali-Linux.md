@@ -32,7 +32,7 @@ published: false
   <li>
    Usb Live: Just like Linux <b><a href="https://moondiscoveries.com/2026-05-21-Tor/"_blank" rel="noopener noreferrer" style="color: black; text-decoration: none;">Tails</a></b>. You can Run Kali linux from the Usb, if something somehow goes wrong ( probably will ) just unplug the Usb. 
    <p style="background-color: #F0E7D5; padding: 10px; border-left: 4px solid #333;"> 
-    PS: When using Usb Live, the Os uses only the hardware on your pc, ALL the software is run on the Usb drive
+    PS: When using Usb Live, the Os uses only the hardware on your pc, ALL the software is run on the Usb drive. Use Balena Etcher <b><a href="https://etcher.balena.io//"_blank" rel="noopener noreferrer" style="color: black; text-decoration: none;">Here</a></b> to burn the Os on your Usb.
    </p>
   </li>
  </ul>

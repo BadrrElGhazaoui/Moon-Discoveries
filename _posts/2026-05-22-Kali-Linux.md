@@ -3,7 +3,6 @@ title: Kali Linux
 categories: IT
 readtime: true
 share-img: assets/img/wp2601077-kali-linux-wallpaper-1920x1080.png
-published: false
 ---
  <img style="width:100%; height:auto;" alt="Mr robot" src="https://github.com/user-attachments/assets/240c385e-260f-44bd-b8f8-8a8318050823" />
 <p>
@@ -12,7 +11,14 @@ published: false
 <img style="width:100%; height:auto;" alt="wp2601077-kali-linux-wallpaper-1920x1080" src="https://github.com/user-attachments/assets/cc5a515c-9d5f-46b5-bcbc-0bbd73368aa2" />
 <p><b>History</b></p>
 <p>
-  
+  In 2006 the company Offensive Security, Merged two prior security Operating Systems, Whax and Auditor Security Collection.
+<img style="width:100%; height:auto;" alt="auditor-label" src="https://github.com/user-attachments/assets/413d041e-bfe8-42c6-9501-07f841e9a2fa" />
+<img style="width:100%; height:auto;" alt="whax" src="https://github.com/user-attachments/assets/3a3a654e-9df1-4963-8a57-99d3986a5356" />
+They merged these two to give us Backtrack Linux: 
+ <img style="width:100%; height:auto;" alt="wp2884619-backtrack-wallpaper-hd" src="https://github.com/user-attachments/assets/1f235c39-2b58-4c2b-9ecb-48b7fcc6c411" />
+ Based on Backtrack, Offensive Security rebuilt it from scratch and realsed Kali Linux on 2013 as we know it today. 
+ They made Major changes such as going from Ubuntu to Debian, better hardware support and easier package management.<br>
+ The name Kali came from the Hindu goddess of power and destruction.
 </p>
 <p><b>Tools</b></p>
 <p>

@@ -27,7 +27,9 @@ Kali Linux gathered the best hacking tools out there, that's the purpose of crea
    <img style="width:100%; height:auto;" alt="4839747" src="https://github.com/user-attachments/assets/dba589cb-9b83-4fb7-929b-45519df341fc" />
   </li>
   <li>
-   
+   John The Ripper: Yes it's named after the famous serial killer, it's a Password cracking tool that uses brute force.
+   <img style="width:100%; height:auto;" alt="wp16044873-john-the-ripper-wallpapers" src="https://github.com/user-attachments/assets/20d2272c-52d1-4685-86a3-6e141ad93ebd" />
+
   </li>
  </ul>
 </p>

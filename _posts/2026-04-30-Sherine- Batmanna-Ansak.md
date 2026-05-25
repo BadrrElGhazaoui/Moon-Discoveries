@@ -79,3 +79,23 @@ And your eyes sleep peacefully through the night
 <p>
   The same question is posed, how can you live on while I die? I die without your smell, without your kiss, without your smile. You know, I'm writing this blog not for success or money or whatever, I'm writing it just so if I die someday and leave this world, I would leave something behind, leave it for the people I loved and left. I'm not a victim here, not always. But I do hope forgiveness from anyone I hurt. Maybe Sherine and Hossam relationship isn't an exception, it's in all of us. Just turn around and you'll sleeping beasts while beauties are awake overthinking what could have they done right.
 </p>
+<blockquote style="border-left: 4px solid #ccc; padding: 10px 20px; color: #555; font-style: italic; margin: 20px 0;">
+بتمنى تزول<br>
+ملامحك من بالي تزول<br>
+لو حتى تروح<br>
+بطلوع الروح، مقبول
+</blockquote>
+<blockquote style="border-left: 4px solid #ccc; padding: 10px 20px; color: #555; font-style: italic; margin: 20px 0;">
+I wish it would fade<br>
+Your face, gone from my mind<br>
+Even if it costs me<br>
+My last breath — accepted
+</blockquote>
+<p>
+  Each and every one of us remembers exactly what their true lovers face looks like, even the bad things, the pimples, the yellowish teeth, sometimes even her mustach.<br>
+Well some of us keep chasing that face all their life, looking for someone similar, at least on the outside.
+</p>
+<p><b>Conclusion</b></p>
+<p>
+  To everyone out there in a relationship, stop scrolling on Instagram and trying to replecate what others do. Live your lives as you want, don't split the bill just because someone said so in Tiktok. Don't overthink what you should do, just love.
+</p>

@@ -84,7 +84,7 @@ And your eyes sleep peacefully through the night
 </blockquote>
 <p>
   The same question is posed, how can you live on while I die? I die without your smell, without your kiss, without your smile. <br>
-  You know, I'm writing this blog not for success or money or whatever, I'm writing it just so if I die someday and leave this world, I would leave something behind, leave it for the people I loved and left. I'm not a victim here, not always. But I do hope forgiveness from anyone I hurt. <br>
+  You know, I'm writing this article/post not for success or money or whatever, I'm writing it just so if I die someday and leave this world, I would leave something behind, leave it for the people I loved and left. I'm not a victim here, not always. But I do hope forgiveness from anyone I hurt. <br>
   Maybe Sherine and Hossam relationship isn't an exception, it's in all of us. Just turn around and you'll sleeping beasts while beauties are awake overthinking what could have they done right.
 </p>
 <blockquote style="border-left: 4px solid #ccc; padding: 10px 20px; color: #555; font-style: italic; margin: 20px 0;">

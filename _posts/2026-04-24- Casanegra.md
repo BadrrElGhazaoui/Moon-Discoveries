@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Casanegra (2008)
 subtitle: The sleepless city
 categories: [Movies]

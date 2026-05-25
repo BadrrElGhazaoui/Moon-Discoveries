@@ -18,3 +18,20 @@ published: false
 This song is super known in the Gen Z world because of Instagram reels and Tiktok. I even once witnesed a drunk 19 yo singing it while passing out, that's something.
 </p>
 <p><b>Lyrics</b></p>
+<blockquote style="border-left: 4px solid #ccc; padding: 10px 20px; color: #555; font-style: italic; margin: 20px 0;">
+بتمنى أنساك<br>
+زي ما إنت نسيتني في يوم<br>
+بتمنى أنساك<br>
+وأنسى إن أنا حبيتك يوم<br>
+بتمنى أنساك
+</blockquote>
+<blockquote style="border-left: 4px solid #ccc; padding: 10px 20px; color: #555; font-style: italic; margin: 20px 0;">
+I wish I could forget you <br>
+The way you forgot me one day<br>
+I wish I could forget you<br>
+And forget that I ever loved you once<br>
+I wish I could forget you
+</blockquote>
+<p>
+  I always tell anyone I meet, you will never forget your truest love (not your first) even if it ended bad. In my life I spoke/speak to a lot of different personalities, but I think these verses are targeted to one. The one that could live a whole love story and just forget about it the next day, I really don't know how they do it. They usually forget about friends too, I'm not targeting girls only, I know boys who do this. Just totally forget about you, they don't even pretend. An old friend of mine once told me " You just have to move on " I mean how? Are we the victims of attachment or are they the victims of forgetting? 
+</p>

@@ -54,3 +54,28 @@ And the blame and reproach, the reproach
 <p>
   You know that time when you put that your phone and just wait to fall asleep, that's when your mind really reminds of every single person you ever knew or loved. Some view that as torture, some as nostalgia. But clearly in the song's lyrics some view it as relief, relief of overthinking what you should have done right, what you could have said. You just run away from this into your sleep, or your death. Both would comfort you in the absence of your lover.
 </p>
+<blockquote style="border-left: 4px solid #ccc; padding: 10px 20px; color: #555; font-style: italic; margin: 20px 0;">
+هو أنا حبيتك ليه؟<br>
+صدقت كلام أوهام<br>
+وصحيت على نار وآلام<br>
+كان قلبي وحيد مرتاح<br>
+وإنت اللي مليته جراح<br>
+خليتني أحبك ليه؟<br>
+ما دام إنت ما حبتني<br>
+شوإزاي أنا بموت وتعيش؟<br>
+وعينيك بالليل بتنام
+</blockquote>
+<blockquote style="border-left: 4px solid #ccc; padding: 10px 20px; color: #555; font-style: italic; margin: 20px 0;">
+Why did I even love you?<br>
+I believed the words of illusions<br>
+And woke up to fire and pain<br>
+My heart was alone and at peace<br>
+And you're the one who filled it with wounds<br>
+Why did you make me love you?<br>
+Since you never loved me back<br>
+How am I dying while you live on?<br>
+And your eyes sleep peacefully through the night
+</blockquote>
+<p>
+  The same question is posed, how can you live on while I die? I die without your smell, without your kiss, without your smile. You know, I'm writing this blog not for success or money or whatever, I'm writing it just so if I die someday and leave this world, I would leave something behind, leave it for the people I loved and left. I'm not a victim here, not always. But I do hope forgiveness from anyone I hurt. Maybe Sherine and Hossam relationship isn't an exception, it's in all of us. Just turn around and you'll sleeping beasts while beauties are awake overthinking what could have they done right.
+</p>

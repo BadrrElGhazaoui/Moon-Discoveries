@@ -35,3 +35,22 @@ I wish I could forget you
 <p>
   I always tell anyone I meet, you will never forget your truest love (not your first) even if it ended bad. In my life I spoke/speak to a lot of different personalities, but I think these verses are targeted to one. The one that could live a whole love story and just forget about it the next day, I really don't know how they do it. They usually forget about friends too, I'm not targeting girls only, I know boys who do this. Just totally forget about you, they don't even pretend. An old friend of mine once told me " You just have to move on " I mean how? Are we the victims of attachment or are they the victims of forgetting? 
 </p>
+<blockquote style="border-left: 4px solid #ccc; padding: 10px 20px; color: #555; font-style: italic; margin: 20px 0;">
+بتمنى أنساك<br>
+وأنسى إن أنا حبيتك يوم<br>
+ويجي النوم<br>
+أو يجي الموت<br>
+بس يسكت صوت الآه<br>
+والعتاب واللوم، اللوم
+</blockquote>
+<blockquote style="border-left: 4px solid #ccc; padding: 10px 20px; color: #555; font-style: italic; margin: 20px 0;">
+I wish I could forget you<br>
+And forget that I ever loved you once<br>
+And let sleep come<br>
+Or let death come<br>
+Just to silence the sound of sighing<br>
+And the blame and reproach, the reproach
+</blockquote>
+<p>
+  You know that time when you put that your phone and just wait to fall asleep, that's when your mind really reminds of every single person you ever knew or loved. Some view that as torture, some as nostalgia. But clearly in the song's lyrics some view it as relief, relief of overthinking what you should have done right, what you could have said. You just run away from this into your sleep, or your death. Both would comfort you in the absence of your lover.
+</p>

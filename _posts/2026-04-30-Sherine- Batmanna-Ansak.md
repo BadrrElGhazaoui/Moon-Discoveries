@@ -2,7 +2,6 @@
 title: Sherine - Batmanna Ansak
 categories: Songs
 share-img: assets/img/batmanansak.jpg
-published: false
 ---
 <P>
   We all have past love stories hunting us, we always try to find a way to run from them. Some even get married to do so, but this song reminds you of literally everything you ran from. Welcome to the depressed lovers underworld!
@@ -10,7 +9,9 @@ published: false
  <img style="width:100%; height:auto;" alt="batmanansak" src="https://github.com/user-attachments/assets/2bb7c577-9c5e-40e9-9406-1849253d6cff" />
 <p><b>Story</b></p>
 <p>
-  The most famous love story the Arab has seen in this century, Sherine and Hossam . All our Mothers know about it, let me give you a quick sum up. Rumors say they began dating each other in 2016 after their collab song “Kol Maghanni”. They got married in 2018, and after A LOT of drama, they divorced in 2021 . When I say a lot of drama, I mean a lot, Sherine is basically the Kardashian of the Arab World after this. <br> 
+  The most famous love story the Arab has seen in this century, Sherine and Hossam . <br>
+  All our Mothers know about it, let me give you a quick sum up. Rumors say they began dating each other in 2016 after their collab song “Kol Maghanni”. <br> 
+  They got married in 2018, and after A LOT of drama, they divorced in 2021 . When I say a lot of drama, I mean a lot, Sherine is basically the Kardashian of the Arab World after this. <br> 
   They Reunite later that year and divorce again in 2023. Well one of them is a psycho, that's for sure. But as long as we keep getting songs like Batmana Ansak, I mean keep going at it?
 </p>
 <img style="width:100%; height:auto;" alt="Hossam-Habib-nie-avoir-agresse-son-ex-femme-Sherine" src="https://github.com/user-attachments/assets/3eeae0a7-52f9-477c-9437-739162544c67" />
@@ -33,7 +34,10 @@ And forget that I ever loved you once<br>
 I wish I could forget you
 </blockquote>
 <p>
-  I always tell anyone I meet, you will never forget your truest love (not your first) even if it ended bad. In my life I spoke/speak to a lot of different personalities, but I think these verses are targeted to one. The one that could live a whole love story and just forget about it the next day, I really don't know how they do it. They usually forget about friends too, I'm not targeting girls only, I know boys who do this. Just totally forget about you, they don't even pretend. An old friend of mine once told me " You just have to move on " I mean how? Are we the victims of attachment or are they the victims of forgetting? 
+  I always tell anyone I meet, you will never forget your truest love (not your first) even if it ended bad. <br>
+  In my life I spoke/speak to a lot of different personalities, but I think these verses are targeted to one. The one that could live a whole love story and just forget about it the next day, I really don't know how they do it. <br>
+  They usually forget about friends too, I'm not targeting girls only, I know boys who do this. Just totally forget about you, they don't even pretend. <br>
+  An old friend of mine once told me " You just have to move on " I mean how? Are we the victims of attachment or are they the victims of forgetting? 
 </p>
 <blockquote style="border-left: 4px solid #ccc; padding: 10px 20px; color: #555; font-style: italic; margin: 20px 0;">
 بتمنى أنساك<br>
@@ -52,7 +56,9 @@ Just to silence the sound of sighing<br>
 And the blame and reproach, the reproach
 </blockquote>
 <p>
-  You know that time when you put that your phone and just wait to fall asleep, that's when your mind really reminds of every single person you ever knew or loved. Some view that as torture, some as nostalgia. But clearly in the song's lyrics some view it as relief, relief of overthinking what you should have done right, what you could have said. You just run away from this into your sleep, or your death. Both would comfort you in the absence of your lover.
+  You know that time when you put that your phone and just wait to fall asleep, that's when your mind really reminds of every single person you ever knew or loved. <br>
+  Some view that as torture, some as nostalgia. But clearly in the song's lyrics some view it as relief, relief of overthinking what you should have done right, what you could have said. <br>
+  You just run away from this into your sleep, or your death. Both would comfort you in the absence of your lover.
 </p>
 <blockquote style="border-left: 4px solid #ccc; padding: 10px 20px; color: #555; font-style: italic; margin: 20px 0;">
 هو أنا حبيتك ليه؟<br>
@@ -77,7 +83,9 @@ How am I dying while you live on?<br>
 And your eyes sleep peacefully through the night
 </blockquote>
 <p>
-  The same question is posed, how can you live on while I die? I die without your smell, without your kiss, without your smile. You know, I'm writing this blog not for success or money or whatever, I'm writing it just so if I die someday and leave this world, I would leave something behind, leave it for the people I loved and left. I'm not a victim here, not always. But I do hope forgiveness from anyone I hurt. Maybe Sherine and Hossam relationship isn't an exception, it's in all of us. Just turn around and you'll sleeping beasts while beauties are awake overthinking what could have they done right.
+  The same question is posed, how can you live on while I die? I die without your smell, without your kiss, without your smile. <br>
+  You know, I'm writing this blog not for success or money or whatever, I'm writing it just so if I die someday and leave this world, I would leave something behind, leave it for the people I loved and left. I'm not a victim here, not always. But I do hope forgiveness from anyone I hurt. <br>
+  Maybe Sherine and Hossam relationship isn't an exception, it's in all of us. Just turn around and you'll sleeping beasts while beauties are awake overthinking what could have they done right.
 </p>
 <blockquote style="border-left: 4px solid #ccc; padding: 10px 20px; color: #555; font-style: italic; margin: 20px 0;">
 بتمنى تزول<br>

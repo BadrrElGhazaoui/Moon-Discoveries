@@ -1,6 +1,8 @@
 ---
 title: Mashrou'Leila-Tayf
 categories: Songs
+description: "A review of Tayf by Mashrou' Leila from the album Ibn El Leil. Why this Lebanese band changed how I think about Arabic music — and why I started blogging."
+tags: [songs, mashrou leila, arabic music, lebanese music, music review]
 share-img: assets/img/Mashrou leila.jpg
 readtime: true
 ---

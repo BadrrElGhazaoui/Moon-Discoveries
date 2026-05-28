@@ -1,6 +1,8 @@
 ---
 title: Billie Eilish-Wildflower
 categories: Songs
+description: "A personal review of Wildflower by Billie Eilish. Why this song hits differently from everything else she's made, and what it really means."
+tags: [songs, billie eilish, pop, music review, wildflower]
 share-img: assets/img/wildfo.jpg
 readtime: true
 ---

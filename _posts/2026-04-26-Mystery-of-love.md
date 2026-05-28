@@ -1,6 +1,8 @@
 ---
 title: Sufjan Stevens - Mystery of Love
 categories: Songs
+description: "A review of Mystery of Love by Sufjan Stevens, written for the Oscar-winning film Call Me By Your Name. Why this song is one of the most beautiful pieces of music ever made."
+tags: [songs, sufjan stevens, indie, call me by your name, music review]
 share-img: assets/img/mystery of love.jpeg
 readtime: true
 ---

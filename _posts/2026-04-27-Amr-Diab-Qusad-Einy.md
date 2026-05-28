@@ -1,6 +1,8 @@
 ---
 title: Amr Diab - Qusad Einy
 categories: Songs
+description: "A review of Qusad Einy by Amr Diab and its connection to the fall of Damascus in December 2024. A song about true love found in the most unexpected place."
+tags: [songs, amr diab, arabic music, egypt, music review]
 share-img: assets/img/amr diab.jpg
 readtime: true
 ---

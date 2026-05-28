@@ -1,6 +1,8 @@
 ---
 title: الزين و العين الزرقة
 share-img: assets/img/6e82dbfea54bd75612d9165c4d66d16e20171107011627_thumb_565-Picsart-AiImageEnhancer.jpg
+description: "A review of one of Morocco's most beloved folk songs, originally called L'Américain by Houcine Slaoui. Its history, meaning, and why it still moves people today."
+tags: [moroccan music, arabic music, houcine slaoui, folk, songs]
 categories: Songs
 readtime: true 
 ---

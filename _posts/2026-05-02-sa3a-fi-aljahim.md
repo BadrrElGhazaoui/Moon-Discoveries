@@ -1,6 +1,8 @@
 ---
 title: Tobis - ساعة في الجحيم
 categories: Movies
+description: "A review of the Tobis episode from the legendary Moroccan series Sa3a Fi Aljahim (2008). Why this episode launched careers and still haunts viewers today."
+tags: [moroccan cinema, movies, series, sa3a fi aljahim, morocco]
 share-img: assets/img/sa3a-fi-ljahim.jpg
 readtime: true
 ---

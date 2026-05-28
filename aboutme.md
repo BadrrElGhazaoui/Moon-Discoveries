@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About me
+description: "Badr El Ghazaoui is a Moroccan blogger and cybersecurity enthusiast from Casablanca. Writer behind Moon Discoveries."
 subtitle: Like owning a house makes you feel secure, I own this corner of the Internet.
 share-img: 
 ---

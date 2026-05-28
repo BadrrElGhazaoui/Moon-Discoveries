@@ -1,6 +1,8 @@
 ---
 title:  'Mortal Kombat: Shaolin Monks'
 categories: Games
+description: "A review of Mortal Kombat Shaolin Monks on PS2. Why this co-op action game holds up in 2026 and deserves a modern remake."
+tags: [games, mortal kombat, ps2, retro gaming, review]
 readtime: true 
 share-img: assets/img/wp2846471-wallpaper-mortal-kombat-shaolin-monks-hd.jpg
 ---

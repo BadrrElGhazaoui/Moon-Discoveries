@@ -2,6 +2,8 @@
 title: Kali Linux
 categories: IT
 readtime: true
+description: "A deep dive into Kali Linux — the hacker OS used by real penetration testers and Mr. Robot's Elliot Alderson. History, tools, and how to use it."
+tags: [cybersecurity, kali linux, hacking, linux, IT]
 share-img: assets/img/wp2601077-kali-linux-wallpaper-1920x1080.png
 ---
  <img style="width:100%; height:auto;" alt="Mr robot" src="https://github.com/user-attachments/assets/240c385e-260f-44bd-b8f8-8a8318050823" />

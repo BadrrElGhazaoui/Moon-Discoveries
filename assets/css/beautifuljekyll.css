@@ -630,7 +630,9 @@ footer .footer-custom-content {
   color: var(--text-col);
   border-color: var(--text-col);
 }
-
+.blog-tags {
+  display: none;
+}
 .post-preview .blog-tags {
   margin-top: 0.3125rem;
   margin-bottom: 0;

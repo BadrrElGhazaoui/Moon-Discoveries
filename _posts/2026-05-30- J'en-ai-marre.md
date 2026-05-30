@@ -26,7 +26,10 @@ PS: I didn't write for the past week, I took my Eid Vacation .
 </p>
 <p><b>Lyrics</b></p>
 <p>
-  <p style="background-color: #F0E7D5; padding: 10px; border-left: 4px solid #333;">قلبي اللّي بغاك آ الوليد<br>j'en ai marre<br>J'en ai marre<br>وواخّا جيت<br>أنا جيت أنا جيت<br>واخّا آ الوليد آ الوليد</p>
-
-<p style="background-color: #F0E7D5; padding: 10px; border-left: 4px solid #333;">My heart that loved you, oh dear one<br>I've had enough<br>I've had enough<br>And yet I came<br>I came, I came<br>Even so, oh dear one, oh dear one</p>
+  <p style="background-color: #F0E7D5; padding: 10px; border-left: 4px solid #333;">اواخا جوني مار قلبي لي بغاك العمر<br> والوليد، الوليد<br> وانا جيت، انا جيت<br> وانا جيت جوني مار</p>
+  <p style="background-color: #F0E7D5; padding: 10px; border-left: 4px solid #333;">Even so, I've had enough — my heart that loved you all this time<br> Oh dear one, dear one<br> And I came, I came<br> And I came, I've had enough</p>
+</p>
+<p>
+  If you hear in the song "جوني مار " it is really from the french word "J'en ai marre" but the sound changes, like a lot of other words. For example, " Train " became " Tran " and " Fromage " became " Fermaj ". It happened in a lot of cultures and the Moroccan is not an exception. <br> 
+  As for the meaning, 
 </p>

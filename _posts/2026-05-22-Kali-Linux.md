@@ -1,7 +1,6 @@
 ---
 title: Kali Linux
 categories: IT
-share-description: testing 101
 readtime: true
 description: "A deep dive into Kali Linux — the hacker OS used by real penetration testers and Mr. Robot's Elliot Alderson. History, tools, and how to use it."
 tags: [cybersecurity, kali linux, hacking, linux, IT]

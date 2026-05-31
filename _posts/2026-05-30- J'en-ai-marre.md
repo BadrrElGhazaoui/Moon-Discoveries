@@ -31,5 +31,7 @@ PS: I didn't write for the past week, I took my Eid Vacation .
 </p>
 <p>
   If you hear in the song "جوني مار " it is really from the french word "J'en ai marre" but the sound changes, like a lot of other words. For example, " Train " became " Tran " and " Fromage " became " Fermaj ". It happened in a lot of cultures and the Moroccan is not an exception. <br> 
-  As for the meaning, 
+  As for the meaning, we all sometimes get tired of the acts of our lovers, sometimes they do wrong sometimes right, maybe you get tired just like that even if they do nothing wrong. Well, even if we are tired, we still love them. I always see people
+running after love, like they have to find it the moment they spawn in this world. Some find it early, some find it very late.<br>
+wether you find it in your 20's or 50's, I prefer 1 year of true love or 50 years of false hope. That's why i m coming. " وانا جيت، انا جيت"                                                                                                                         
 </p>

@@ -1,12 +1,11 @@
 ---
 title: Social Engineering
 categories: IT
-description:
-tags:
+description: Social engineering is more about hacking people than machines. Learn how pride makes you vulnerable, and why face-to-face manipulation is the most dangerous attack of all.
+tags: [social-engineering, cybersecurity, hacking, phishing, IT, security-awareness]
 readtime: true
 published: false
 share-img: assets/img/wp12825092-social-engineering-wallpapers.jpg
-published: false
 ---
 <p>
   Most people think Hacking is related to computers, it is not. It's related to the one behind it, you.<br> From experience, hacking people is easier than hacking machines, whether it's phishing or social engineering. Humans like to talk, quite a lot.
@@ -27,6 +26,15 @@ If you haven't read my previous posts, I mentioned "Pride" in 2 of them : here
   </p>
   With time, it evolved to what we see today, Emails, Phone Calls, Text Messages. I don't think this is dangerous at all, at least not for 90 percent of people. ( the other 10 percent is older people that are new to technology, the reasons Indian call centers still has their income) <br>
   I think the most dangerous Social Engineering is the face to face one, might a "friend" or someone you just meet. Our generation and Social media really made work so that you can aproach anyone at any time and they spill all the "tea" for you. Especially if you have a pretty face. <br>
-  Why did I bring up pride for this?
-  
+</p>
+<p><b>Simulation</b></p>
+<p>Why did I bring up pride for this? Let's put you in a situation where you are a hacker, your target is a girl you go to school with. Are you gonna go and ask for her Instagram password? No. <br>
+  You pretend you will hit on her, try asking for her phone to make an urgent phone call, go the bathroom and install a Trojan in it. You got full control of the phone.<br>
+  Some of you might think this won't work and it's from my imagination. Trust me, it works.<br>
+  The Pride in this is the girl feeling herself, that she got a handsome guy to like her. In every social engineering situation, you will find pride trust me. Even in this article you will. The solution? Try to minimize it as much as you can.<br>
+  A lot of hackers/hacktivists/criminals get caught due to pride, some of them have really good skills but really small minds, I'm not saying they are dumb, but they lost control of themselves. That's why always keep yourself in check.
+</p>
+<p><b>Conclusion</b></p>
+<p>
+  I'm very busy these times that's why I'm not writing a lot, thank you for your Emails . Have a Good One.
 </p>

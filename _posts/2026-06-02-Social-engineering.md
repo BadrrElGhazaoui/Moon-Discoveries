@@ -1,5 +1,5 @@
 ---
-title: Social Engineering 
+title: Social Engineering
 categories: IT
 description:
 tags:
@@ -21,5 +21,12 @@ If you haven't read my previous posts, I mentioned "Pride" in 2 of them : here
  <img style="width:100%; height:auto;" alt="anime-the-seven-deadly-sins-escanor-the-seven-deadly-sins-hd-wallpaper-preview" src="https://github.com/user-attachments/assets/602a2b00-a2af-471a-99d2-25fd2e3e48be" />
 <p>
   I hate pride a lot, I really do. You know why? because I believe that the upper you will see, the easier it is to bring you down. Kind of like jujitsu, always watch the body, not the face. <br>
-  What does Pride have to do with Social Engineering ? Mostly Everything. 
+  What does Pride have to do with Social Engineering ? Mostly Everything. But Before I'll let you read the History of Social Engineering.
+  <p style="background-color: #F0E7D5; padding: 10px; border-left: 4px solid #333;"> 
+    It seems that the earliest social engineering trick is the Trojan Horse story. I already covered the full story in this article : <b><a href="https://moondiscoveries.com/2026-06-01-Trojans/" rel="noopener noreferrer" style="color: black; text-decoration: none;">Trojan Virus</a></b>
+  </p>
+  With time, it evolved to what we see today, Emails, Phone Calls, Text Messages. I don't think this is dangerous at all, at least not for 90 percent of people. ( the other 10 percent is older people that are new to technology, the reasons Indian call centers still has their income) <br>
+  I think the most dangerous Social Engineering is the face to face one, might a "friend" or someone you just meet. Our generation and Social media really made work so that you can aproach anyone at any time and they spill all the "tea" for you. Especially if you have a pretty face. <br>
+  Why did I bring up pride for this?
+  
 </p>

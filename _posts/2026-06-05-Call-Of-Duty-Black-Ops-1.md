@@ -1,9 +1,8 @@
 ---
 title: Call Of Duty Black Ops 1 Zombies
-published: false
 share-img: assets/img/wp3964657-call-of-duty-black-ops-1-wallpapers.jpg
-description:
-tags:
+description: "One of the best things about Zombies is the door mechanic. Instead of giving you the full map from the start, the game makes you earn points and unlock new areas as you survive. It creates a real sense of progression and keeps every match exciting."
+tags: [zombies, call of duty zombies, cod zombies, zombie gameplay, round based zombies, gaming, survival mode, zombie maps, fps, gameplay]
 readtime: true
 categories: Games
 ---
@@ -113,5 +112,13 @@ categories: Games
       Clock-Turn: Closes all the windows in the map.
        <img style="width:100%; height:auto;" alt="clock" src="https://github.com/user-attachments/assets/64213fcd-bcb5-4560-8e53-299412d4f099" />
   </li>
+    
   </ul>
 </p>
+<p><b>115</b></p>
+<p>
+  A song you activate by finding these 3 items in the Map. The song is named 115, it made by Kevin Sherwood. 
+  <img style="width:100%; height:auto;" alt="115" src="https://github.com/user-attachments/assets/5a8cd215-5bba-478b-9070-3ae2c6f07eaf" />
+</p>
+<p><b>Conclusion</b></p>
+<p>One of the best things in Zombies is the door mechanisime, You don't get the full map from the begenning. You have something to work for, I hope you play the game and enjoy it!</p>

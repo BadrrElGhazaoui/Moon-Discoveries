@@ -25,4 +25,31 @@ categories: Games
    </li>
   </ul>
 </p>
-<p><b></b></p>
+<p><b>Weapons</b></p>
+<p>
+  Weapons in Zombies are devided, there are Wall Weapons and Box Weapons :
+  <ul>
+    <li>
+      Wall Weapons: You Buy them in the wall for a certain price. Best One is the MP40, worth 1250 can kill Zombies and Hell Hounds:
+       <img style="width:100%; height:auto;" alt="f1bt9bdq63y81" src="https://github.com/user-attachments/assets/9f0e31ed-e093-4118-a1b3-63904aae0f50" />
+  </li>
+    <li>
+      <p style="background-color: #F0E7D5; padding: 10px; border-left: 4px solid #333;"> 
+        The Box isn't in a specific location, there are several in the map but only one is activated for you to use ( Buy-In for 950 ) . The Green Light indicates where the Box is : 
+         <img style="width:100%; height:auto;" alt="a7ab998b149dda5b1eed102ee354d2da" src="https://github.com/user-attachments/assets/0162a4d2-8f17-4520-8963-dd287a98b079" />
+      </p>
+ Box Weapons: You Open the Mystery Box and wait for a certain gun to come out. The best Box Weapons are :
+      <img style="width:100%; height:auto;" alt="Mystery_Box" src="https://github.com/user-attachments/assets/0e2dced5-2bdf-4ba6-81c2-b7c1768e8b62" /
+      <li> Ray Gun: It's a good gun but I always end up killing myself with it. 
+         <img style="width:100%; height:auto;" alt="Ray_gun_mystery_box" src="https://github.com/user-attachments/assets/f4c05a8a-ece7-40bb-91ff-238bc2e3ba7e" /> </li>
+    <li>
+      Thundergun: Very Powerful, few amunition but very powerful and used against a bunch of zombies:
+     <img style="width:100%; height:auto;" alt="Thundergun_mystery_box" src="https://github.com/user-attachments/assets/6c0eb52f-94f7-4b6f-8463-03f8ed7adb08" />
+  </li>
+    <li>
+      Commando: Best Weapon, My favourite, you just spam it, you feel zombies dying at your point. When pack a punched, it becomes the BEST weapon in COD History.
+       <img style="width:100%; height:auto;" alt="Commando_all_attachments_The_Defector_BO" src="https://github.com/user-attachments/assets/8808e715-b1ce-4203-a3bb-7a68a1e6df1d" />
+  </li>
+  </li>
+  </ul>
+</p>

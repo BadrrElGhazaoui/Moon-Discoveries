@@ -53,3 +53,25 @@ categories: Games
   </li>
   </ul>
 </p>
+<p><b>Enemies</b></p>
+<p>
+  Even if the game-mode is named Zombies, but you won't face them alone :
+  <ul>
+    <li>
+      Zombies: Normal enemies, May be scary at 3 am tho.
+       <img style="width:100%; height:auto;" alt="images steamusercontent" src="https://github.com/user-attachments/assets/3c00ec5c-8fa2-49fc-9925-0616ed1e93e7" />     
+ </li>
+    <li>
+      Crawlers: I call them Stink Heads, they explode when killed, with bad smell. They might rise your cortisol if you don't watch the ground for them.
+     <img style="width:100%; height:auto;" alt="CrawlerZ" src="https://github.com/user-attachments/assets/1b061cda-280b-459a-bab7-33cabaf3657b" />
+  </li>
+    <li>
+      Hell Hounds: They have a special round, the fog appears, I suggest you get the nearest shotgun. Because if you don't, you are dead.
+       <img style="width:100%; height:auto;" alt="f1fd8028094da6795cb05fd1faad117c" src="https://github.com/user-attachments/assets/3c6b93ea-127d-45f9-b39c-d9476c7118b4" />
+  </li>
+  </ul>
+</p>
+<p><b>Perks</b></p>
+<P>
+  
+</P>

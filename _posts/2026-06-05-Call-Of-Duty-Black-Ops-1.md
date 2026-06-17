@@ -88,7 +88,30 @@ categories: Games
  <img style="width:100%; height:auto;" alt="mqdefault" src="https://github.com/user-attachments/assets/baa63251-28c1-4f79-8483-c5539344b329" />
   </li>
     <li>
-      Double Tap: If you shoot 40 
+      Double Tap: If you shoot 40 from your ammo box with a commando, you shoot 80 with Double Tap. It doubles your shooting ammo.
+      <img style="width:100%; height:auto;" alt="Double_tap_rootbeer" src="https://github.com/user-attachments/assets/ef60e292-c976-4a81-aa87-d08d5d19b67d" />
   </li>
   </ul>
 </P>
+<p><b>Power Ups</b></p>
+<p>
+  Power Ups spawn when you kill zombies, they are pretty much random. You never know what you get and when you get. Here they are :
+  <ul>
+    <li>
+      Max Ammo: Says what it does. Please Reload before taking it. 
+     <img style="width:100%; height:auto;" alt="MaxAmmo_Model_BO7" src="https://github.com/user-attachments/assets/0616a0ce-0f1d-4063-a525-04478a6e6671" />
+   </li>
+    <li>
+      Nuke : Kills everyone on the map, you will really need it on round 30 and Upper. Especially if you don't have ammo.
+      <img style="width:100%; height:auto;" alt="images steamusercontent" src="https://github.com/user-attachments/assets/e9905ca7-a0d2-48f9-b380-4b3518c3a0a9" />
+   </li>
+    <li>
+      Double Points: It doubles the money (points) you get when killing Ennemies.
+       <img style="width:100%; height:auto;" alt="0tf7yxo21w541" src="https://github.com/user-attachments/assets/209bec27-5f2c-4d6d-878f-c81d1debbfc1" />
+  </li>
+    <li>
+      Clock-Turn: Closes all the windows in the map.
+       <img style="width:100%; height:auto;" alt="clock" src="https://github.com/user-attachments/assets/64213fcd-bcb5-4560-8e53-299412d4f099" />
+  </li>
+  </ul>
+</p>

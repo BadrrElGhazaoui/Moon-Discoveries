@@ -49,7 +49,6 @@ categories: Games
       Commando: Best Weapon, My favourite, you just spam it, you feel zombies dying at your point. When pack a punched, it becomes the BEST weapon in COD History.
        <img style="width:100%; height:auto;" alt="Commando_all_attachments_The_Defector_BO" src="https://github.com/user-attachments/assets/8808e715-b1ce-4203-a3bb-7a68a1e6df1d" />
   </li>
-  </li>
   </ul>
 </p>
 <p><b>Enemies</b></p>

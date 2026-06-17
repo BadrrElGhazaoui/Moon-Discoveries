@@ -1,5 +1,5 @@
 ---
-title: Call Of Duty Black Ops 1 Zombies
+title: Call Of Duty Black Ops 1 : Zombies
 share-img: assets/img/wp3964657-call-of-duty-black-ops-1-wallpapers.jpg
 description: "One of the best things about Zombies is the door mechanic. Instead of giving you the full map from the start, the game makes you earn points and unlock new areas as you survive. It creates a real sense of progression and keeps every match exciting."
 tags: [zombies, call of duty zombies, cod zombies, zombie gameplay, round based zombies, gaming, survival mode, zombie maps, fps, gameplay]

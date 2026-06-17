@@ -32,13 +32,13 @@ categories: Games
       Wall Weapons: You Buy them in the wall for a certain price. Best One is the MP40, worth 1250 can kill Zombies and Hell Hounds:
        <img style="width:100%; height:auto;" alt="f1bt9bdq63y81" src="https://github.com/user-attachments/assets/9f0e31ed-e093-4118-a1b3-63904aae0f50" />
   </li>
-    <li>
       <p style="background-color: #F0E7D5; padding: 10px; border-left: 4px solid #333;"> 
         The Box isn't in a specific location, there are several in the map but only one is activated for you to use ( Buy-In for 950 ) . The Green Light indicates where the Box is : 
          <img style="width:100%; height:auto;" alt="a7ab998b149dda5b1eed102ee354d2da" src="https://github.com/user-attachments/assets/0162a4d2-8f17-4520-8963-dd287a98b079" />
       </p>
- Box Weapons: You Open the Mystery Box and wait for a certain gun to come out. The best Box Weapons are :
-      <img style="width:100%; height:auto;" alt="Mystery_Box" src="https://github.com/user-attachments/assets/0e2dced5-2bdf-4ba6-81c2-b7c1768e8b62" /
+<li> Box Weapons: You Open the Mystery Box and wait for a certain gun to come out. The best Box Weapons are :
+      <img style="width:100%; height:auto;" alt="Mystery_Box" src="https://github.com/user-attachments/assets/0e2dced5-2bdf-4ba6-81c2-b7c1768e8b62" />
+</li>
       <li> Ray Gun: It's a good gun but I always end up killing myself with it. 
          <img style="width:100%; height:auto;" alt="Ray_gun_mystery_box" src="https://github.com/user-attachments/assets/f4c05a8a-ece7-40bb-91ff-238bc2e3ba7e" /> </li>
     <li>

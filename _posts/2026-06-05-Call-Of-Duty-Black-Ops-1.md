@@ -73,5 +73,22 @@ categories: Games
 </p>
 <p><b>Perks</b></p>
 <P>
-  
+  Perks are sodas you buy and drink and they give you kind of super powers to help you throughout the rounds. Black Ops 1 Zombies perks are : 
+  <ul>
+    <li>
+      Quick Revive: If you play solo, it revives you if you die. If you play co-up, you can revive your teamate in a lower time than usual. Costs 500 in Solo and 1500 in Co-Up
+       <img style="width:100%; height:auto;" alt="QR_Shangri-La" src="https://github.com/user-attachments/assets/981dd1dd-2bbe-47b9-a342-72ef63a729e9" />
+  </li>
+    <li>
+      Speed Cola: Reload your weapon faster, helps a lot to be honest. If you get used to it, you won't like the normal speed. And if you have a heavy gun, you HAVE to get it, costs 3000.
+      <img style="width:100%; height:auto;" alt="Speed_cola" src="https://github.com/user-attachments/assets/bc24f2dd-ea38-4e76-b4b5-26e49c3b8244" />
+  </li>
+    <li>
+      Jugger-Nog: If you normally die in 2 attacks from Zombies, with this you die within 5 or 6. Basically, more health.
+ <img style="width:100%; height:auto;" alt="mqdefault" src="https://github.com/user-attachments/assets/baa63251-28c1-4f79-8483-c5539344b329" />
+  </li>
+    <li>
+      Double Tap: If you shoot 40 
+  </li>
+  </ul>
 </P>
